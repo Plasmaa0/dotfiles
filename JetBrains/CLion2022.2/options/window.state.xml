@@ -1,0 +1,178 @@
+<application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.3000.2000@192dpi" x="990" y="262" />
+    <location key="find.popup.0.0.3840.2560@192dpi" x="1266" y="318" />
+    <size key="GridCell.Tab.0.left.0.0.3000.2000@192dpi" width="2908" height="650" />
+    <size key="GridCell.Tab.0.center.0.0.3000.2000@192dpi" width="2908" height="650" />
+    <size key="GridCell.Tab.0.right.0.0.3000.2000@192dpi" width="2908" height="650" />
+    <size key="GridCell.Tab.0.bottom.0.0.3000.2000@192dpi" width="2908" height="650" />
+    <size key="GridCell.Tab.0.left.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.0.center.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.0.right.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.0.bottom.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.1.left.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.1.center.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.1.right.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.1.bottom.1920.0.3840.2560@192dpi" width="3748" height="938" />
+    <size key="GridCell.Tab.0.left.0.0.3840.2560@192dpi" width="3748" height="388" />
+    <size key="GridCell.Tab.0.center.0.0.3840.2560@192dpi" width="3748" height="388" />
+    <size key="GridCell.Tab.0.right.0.0.3840.2560@192dpi" width="3748" height="388" />
+    <size key="GridCell.Tab.0.bottom.0.0.3840.2560@192dpi" width="3748" height="388" />
+    <size key="find.popup.0.0.3000.2000@192dpi" width="1164" height="992" />
+    <size key="GridCell.Tab.0.left.3840.560.3000.2000@192dpi" width="2908" height="434" />
+    <size key="GridCell.Tab.0.center.3840.560.3000.2000@192dpi" width="2908" height="434" />
+    <size key="GridCell.Tab.0.right.3840.560.3000.2000@192dpi" width="2908" height="434" />
+    <size key="GridCell.Tab.0.bottom.3840.560.3000.2000@192dpi" width="2908" height="434" />
+    <size key="GridCell.Tab.1.left.0.0.3000.2000@192dpi" width="2908" height="432" />
+    <size key="GridCell.Tab.1.center.0.0.3000.2000@192dpi" width="2908" height="432" />
+    <size key="GridCell.Tab.1.right.0.0.3000.2000@192dpi" width="2908" height="432" />
+    <size key="GridCell.Tab.1.bottom.0.0.3000.2000@192dpi" width="2908" height="432" />
+    <size key="GridCell.Tab.1.left.0.0.3840.2560@192dpi" width="3748" height="912" />
+    <size key="GridCell.Tab.1.center.0.0.3840.2560@192dpi" width="3748" height="912" />
+    <size key="GridCell.Tab.1.right.0.0.3840.2560@192dpi" width="3748" height="912" />
+    <size key="GridCell.Tab.1.bottom.0.0.3840.2560@192dpi" width="3748" height="912" />
+    <size key="find.popup.0.0.3840.2560@192dpi" width="1354" height="1104" />
+    <size key="GridCell.Tab.-1.left.0.0.3000.2000@192dpi" width="2908" height="688" />
+    <size key="GridCell.Tab.-1.center.0.0.3000.2000@192dpi" width="2908" height="688" />
+    <size key="GridCell.Tab.-1.right.0.0.3000.2000@192dpi" width="2908" height="688" />
+    <size key="GridCell.Tab.-1.bottom.0.0.3000.2000@192dpi" width="2908" height="688" />
+  </component>
+  <component name="ToolWindowLayout">{
+  &quot;v1&quot;: [
+    {
+      &quot;id&quot;: &quot;Bookmarks&quot;,
+      &quot;order&quot;: 0,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Project&quot;,
+      &quot;order&quot;: 1,
+      &quot;contentUiType&quot;: &quot;COMBO&quot;,
+      &quot;isVisible&quot;: true,
+      &quot;weight&quot;: 0.17421874
+    },
+    {
+      &quot;id&quot;: &quot;Structure&quot;,
+      &quot;order&quot;: 2,
+      &quot;isSplit&quot;: true
+    },
+    {
+      &quot;id&quot;: &quot;Version Control&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Find&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Run&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;isVisible&quot;: true,
+      &quot;weight&quot;: 0.35962015
+    },
+    {
+      &quot;id&quot;: &quot;Debug&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4000826
+    },
+    {
+      &quot;id&quot;: &quot;Python Packages&quot;,
+      &quot;order&quot;: 4,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;TODO&quot;,
+      &quot;order&quot;: 5,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Messages&quot;,
+      &quot;order&quot;: 6,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32989264
+    },
+    {
+      &quot;id&quot;: &quot;CMake&quot;,
+      &quot;order&quot;: 7,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32989264
+    },
+    {
+      &quot;id&quot;: &quot;Inspection&quot;,
+      &quot;order&quot;: 8,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.4
+    },
+    {
+      &quot;id&quot;: &quot;Problems View&quot;,
+      &quot;order&quot;: 9,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32989264
+    },
+    {
+      &quot;id&quot;: &quot;Terminal&quot;,
+      &quot;order&quot;: 10,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;,
+      &quot;weight&quot;: 0.32989264
+    },
+    {
+      &quot;id&quot;: &quot;Services&quot;,
+      &quot;order&quot;: 11,
+      &quot;anchor&quot;: &quot;BOTTOM&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Hierarchy&quot;,
+      &quot;order&quot;: 0,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;weight&quot;: 0.32994792
+    },
+    {
+      &quot;id&quot;: &quot;Database&quot;,
+      &quot;order&quot;: 1,
+      &quot;anchor&quot;: &quot;RIGHT&quot;
+    },
+    {
+      &quot;id&quot;: &quot;Notifications&quot;,
+      &quot;order&quot;: 2,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;weight&quot;: 0.25
+    },
+    {
+      &quot;id&quot;: &quot;make&quot;,
+      &quot;order&quot;: 3,
+      &quot;anchor&quot;: &quot;RIGHT&quot;,
+      &quot;isShowStripeButton&quot;: false,
+      &quot;isSplit&quot;: true
+    }
+  ]
+}</component>
+  <component name="WindowManager">
+    <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="536" y="254" width="424" height="499" key="FileChooserDialogImpl" timestamp="1668430219513">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="536" y="254" width="424" height="499" key="FileChooserDialogImpl/0.32.1500.968" timestamp="1668430219513" />
+    <state x="686" y="321" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000" timestamp="1667128752541" />
+    <state width="608" height="171" key="ShowUsagesActions.dimensionServiceKey" timestamp="1668353290737">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="475" height="127" key="ShowUsagesActions.dimensionServiceKey/0.32.1500.968" timestamp="1668162842410" />
+    <state width="608" height="171" key="ShowUsagesActions.dimensionServiceKey/0.32.1920.1248/1920.280.1500.1000" timestamp="1668353290737" />
+    <state width="475" height="106" key="ShowUsagesActions.dimensionServiceKey/1920.280.1500.1000/0.312.1920.968" timestamp="1665442008346" />
+    <state x="750" y="512" width="1500" height="976" key="WELCOME_SCREEN" timestamp="1668868963783">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="750" y="512" width="1500" height="976" key="WELCOME_SCREEN/0.32.1500.968" timestamp="1668868963783" />
+    <state x="960" y="652" width="1920" height="1256" key="WELCOME_SCREEN/0.32.1920.1248/1920.280.1500.1000" timestamp="1667128737074" />
+    <state width="300" height="509" key="manage.recent.projects.popup" timestamp="1668281068901">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="300" height="509" key="manage.recent.projects.popup/0.32.1920.1248/1920.280.1500.1000" timestamp="1668281068901" />
+  </component>
+</application>

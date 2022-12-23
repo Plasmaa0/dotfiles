@@ -1,0 +1,309 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2FVMYlKTmme1BJYbdRRyDsWaNxC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FaVR4MWl2zXcQj6VvbH8h3tnta">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FanECdrUJiSqy04Lsr3AVlro5P">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FjOkBbisZOV59IcmZmGcqheNvb">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FwoSYhTz845GUu5jJ9OkNdiHHl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FwobVCdS8zOMnrWUJQK9ZqRNDf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2FxVX4dhmxIqX0jM9Ki5HvFD6gO">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GOAg5BpLvv4CPuHB3X5WeXUKLf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GODvTNBBbZr1u64nSe1ynx8se2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GPHJC9nfKaWyajcwsx7cUm0Bob">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GPHb6d7Is7ItnGCu2AyPUe6OTl">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GXSAbciTOuafpd80wjq8jIeyI7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GXrgtc3GtYrr4JfaJiGCmb5Lzx">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gp1uG7Thy2EyjmFxWVWvPgTVby">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gqv6Q8QYsZfmgxhtY4BcBzfK74">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gqvw5tS6FRPyprpKHK54c8yyr3">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwpIEu3g5eauqZeKNfB6JcHqR4">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2H2GaQIP2gKoLzweVyXQ28LBpSz">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HAfwlt4BwQMXFBE4HGuBFJizDL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HDlIS4jV57kK9E3ghV7lZCBzAT">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HGIypcp734feJLUdzoOGIxrDvu">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HMMmBaj48Wq90p7yK1G2by5oyC">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HOgCL1pxcxxYq4GbNTC9nbjCIr">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HXSA9bL4GExGyKofxQfuoMG2cB">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HXT2rZlsl6ie44tSDP54nppVon">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Ha8z5o6gxh203pEg4xMZIQNwdE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="HtmlExportSettings">
+    <option name="resourceDirectory" value="$USER_HOME$/infa/type_erasure/script" />
+  </component>
+  <component name="OCCodeInsightSettings">
+    <option name="TRY_TO_SORT_IMPORTS" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "0",
+    "AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "true",
+    "AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR": "false",
+    "BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT": "1",
+    "BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES": "false",
+    "BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN": "true",
+    "BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR": "true",
+    "BEFORE.DISTRACTION.MODE.SHOW_NEW_MAIN_TOOLBAR": "false",
+    "BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR": "true",
+    "CPPToolchains.toolchains": "0.26616916",
+    "CWM_LOGGING_VERSION": "1",
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.62236285",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FileTemplates.SelectedTemplate": "C++ Class",
+    "FindSplitterProportion": "0.33008447",
+    "GRAZIE_RULE_FILTER": "rusia\nenglish",
+    "InstalledPluginsSearchHistory": "pdf\nplant\npla\nplat\npa",
+    "KEYMAP": "ctrl shift\ncarete",
+    "LAST_INJECTED_LANGUAGE": "ASM",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "LayoutCode.processChangedText": "false",
+    "LayoutCode.rearrangeEntries": "true",
+    "MarketplacePluginsSearchHistory": "plantuml\nplantu\nplant\nmermaid\nbrackets",
+    "MemberChooser.showClasses": "true",
+    "NextRunPlatformUpdateBuild": "CL-223.7571.171/2022.3",
+    "NextRunPlatformUpdateVersion": "2022.3",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.cidr.test.framework.showIndexingAsTask": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "pdf\nmarkdown\numl\nplantuml\nrainbow variables",
+    "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.47792494",
+    "TextEditorWithPreview.SplitterProportionKey": "0.53094983",
+    "appcds.runOnSecondStart": "CL-223.7571.171-43232222eb20f0de7ee6c7fcdcb87ccd7dd44ee179b0292a2b26f8303bbb4741",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "CL-223.7571.171",
+    "clion.initialConfigPerformed": "true",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.splitter": "0.7769131",
+    "cppcheck": "/usr/bin/cppcheck",
+    "cppcheckMisraPath": "",
+    "cppcheckOptions": "--enable=warning,performance,portability,style --language=c++",
+    "evlsprt3.222": "23",
+    "evlsprt3.223": "24",
+    "file.gist.reindex.count": "2200",
+    "fileTypeChangedCounter": "4",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "CL-223.7571.171",
+    "ideavim.statistics.timestamp": "1667741402062",
+    "ignoreUltimateEdition": "true",
+    "input.method.disabler.muted": "true",
+    "js.field.names.completion": "true",
+    "js.var.names.completion": "true",
+    "js.var.names.completion.kind": "TYPES_FOR_PARAMS",
+    "last_opened_file_path": "/home/plasmaa0/infa/ostream_iterator",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Spectrum)",
+    "rainbow.selected.color.option.name": "Angle Brackets",
+    "registry.to.advanced.settings.migration.build": "CL-223.7571.171",
+    "selected.color.option.type": "TS.STATIC_MEMBER_FUNCTION",
+    "settings.code.style.selected.tab.ObjectiveC": "Tabs and Indents",
+    "structure.view.defaults.are.configured": "true",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4",
+    "vcs.branch.view.splitter.proportion": "0.15638149"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/plasmaa0/infa/type_erasure",
+      "/home/plasmaa0/infa/ostream_iterator",
+      "/home/plasmaa0/infa/bd_3",
+      "/home/plasmaa0/infa/KDL",
+      "/home/plasmaa0/infa/cppbasics/sarpi/fe_grid_loader",
+      "/bin/valgrind",
+      "/home/plasmaa0/infa/bgfx_test/bgfx_cmake_minimum",
+      "/home/plasmaa0/infa/cppbasics",
+      "/home/plasmaa0/infa/delete_me/qt_xml",
+      "/home/plasmaa0/infa/delete_me/fe_grid_loader",
+      "/home/plasmaa0/infa/cppbasics/meshloader",
+      "/home/plasmaa0/infa/cppbasics/qt_calculator",
+      "/bin/designer6",
+      "/home/plasmaa0/infa/qt_xml",
+      "/home/plasmaa0/infa/neural",
+      "/home/plasmaa0/infa/qt_calculator",
+      "/home/plasmaa0/infa/Counter",
+      "/home/plasmaa0/infa/BlobfishEngine",
+      "/home/plasmaa0/infa/test_lib_link",
+      "/home/plasmaa0/infa/cppbasics/dz_1_io_streams_stl"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "com.jetbrains.cidr.lang.OCHeaderFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="SearchOptions">
+    <option name="fuState">
+      <list />
+    </option>
+    <option name="suState">
+      <list />
+    </option>
+  </component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "AnnotationsAndDiffs": 1670842099358,
+    "LiveTemplates": 1670585151268,
+    "ExtractClass": 1670707894941,
+    "SpeedSearch": 1670244274263,
+    "EvaluateExpression": 1670673661789,
+    "NonSuspendingBreakpoints": 1670244247505,
+    "Escape": 1670499456626,
+    "QuickSwitchScheme": 1670585139876,
+    "local_history": 1670420420901,
+    "FileStructurePopup": 1670585120840,
+    "SelectIn": 1670585155026,
+    "VcsQuickList": 1670842107454
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Calculator-history" project-path="$USER_HOME$/infa/cppbasics/qt_calculator" last-access-time="1670528480026" />
+      <command-history-file filename="KDL-history" project-path="$USER_HOME$/infa/KDL" last-access-time="1670420412695" />
+      <command-history-file filename="type_erasure-history" project-path="$USER_HOME$/infa/type_erasure" last-access-time="1670718713474" />
+    </command-history-files>
+  </component>
+  <component name="ValgrindSettings">
+    <option name="valgrindPath" value="/bin/valgrind" />
+  </component>
+</application>

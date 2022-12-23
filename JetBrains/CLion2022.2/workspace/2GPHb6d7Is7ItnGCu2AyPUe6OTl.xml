@@ -1,0 +1,811 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="qt_xml" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/qt_xml.pro">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/XMLModel.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="7" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="4" lastUsed="1666562550140" />
+    </fileType>
+    <fileType name="CMakeCache.txt">
+      <summary usageCount="1" lastUsed="1666283897234" />
+    </fileType>
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="21" lastUsed="1668874911884" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="16" lastUsed="1668875233659" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1666615379190" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1668366959881" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="6" lastUsed="1668432502452" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="1" lastUsed="1668293299222" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="13" lastUsed="1668434280383" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="250" lastUsed="1669896326920" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="14" lastUsed="1669896326890" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1666615187866" />
+    </fileType>
+    <fileType name="Qt UI file">
+      <summary usageCount="4" lastUsed="1668366708389" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="95" lastUsed="1669643855916" />
+    </fileType>
+    <fileType name="XQuery">
+      <summary usageCount="17" lastUsed="1669643911047" />
+    </fileType>
+    <fileType name="disassembly">
+      <summary usageCount="19" lastUsed="1668359275971" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\n</find>
+      <find>selectedfilepath</find>
+      <find>selectedFilePath</find>
+      <find>ui-&gt;fileLineEdit-&gt;</find>
+      <find>from</find>
+      <find>global</find>
+      <find>активн</find>
+      <find>datac</find>
+      <find>remo</find>
+      <find>FileContextMenu</find>
+      <find>count</find>
+      <find>EDU</find>
+      <find>NearestMetroStations</find>
+      <find>context</find>
+      <find>EditRole</find>
+      <find>internal</find>
+      <find>openedFiles</find>
+      <find>size()</find>
+      <find>open</find>
+      <find>fontro</find>
+      <find>Role</find>
+      <find>xq</find>
+      <find>.xq</find>
+      <find>TEST</find>
+      <find>createNewTab</find>
+      <find>tra</find>
+      <find>{</find>
+      <find>{} &lt;</find>
+      <find>seriali</find>
+      <find>XmlQuery</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>/</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/data/berries.xml" />
+      <option value="$PROJECT_DIR$/data/Preschool education.xml" />
+      <option value="$PROJECT_DIR$/data/data-27881-2021-12-28.xml" />
+      <option value="$PROJECT_DIR$/data/Ярмарки выходного дня.xml" />
+      <option value="$PROJECT_DIR$/data/пункты приема трупов домашних животных.xml" />
+      <option value="$PROJECT_DIR$/data/график работы уличных фонарей.xml" />
+      <option value="$PROJECT_DIR$/stylesheet.qss" />
+      <option value="$PROJECT_DIR$/data/выбросы в атмосферу.xml" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/out.xml" />
+      <option value="$PROJECT_DIR$/data/test.xq" />
+      <option value="$PROJECT_DIR$/mainwindow.ui" />
+      <option value="$PROJECT_DIR$/translations.qrc" />
+      <option value="$PROJECT_DIR$/data/фонари.xq" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/data/храмы на бауманской.xq" />
+      <option value="$PROJECT_DIR$/data/результаты ЕГЭ.xml" />
+      <option value="$PROJECT_DIR$/data/храмы.xml" />
+      <option value="$PROJECT_DIR$/data/test.xml" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/data/ЕГЭ.xml" />
+      <option value="$PROJECT_DIR$/data/ЗАГСы.xml" />
+      <option value="$PROJECT_DIR$/data/translations.qrc" />
+      <option value="$PROJECT_DIR$/icons/icons.qrc" />
+      <option value="$PROJECT_DIR$/mainwindow.cpp" />
+      <option value="$PROJECT_DIR$/XMLModel.h" />
+      <option value="$PROJECT_DIR$/XMLModel.cpp" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+      <option value="$PROJECT_DIR$/mainwindow.h" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/qt_xml.pro" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ASM">
+      <summary usageCount="19" lastUsage="1668359275971" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="21" lastUsage="1668874911884" />
+    </language>
+    <language id="CMakeCache">
+      <summary usageCount="1" lastUsage="1666283897234" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1666615379190" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="6" lastUsage="1668432502452" />
+    </language>
+    <language id="Makefile">
+      <summary usageCount="1" lastUsage="1668293299222" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="13" lastUsage="1668434280383" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="250" lastUsage="1669896326920" />
+    </language>
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1666615187866" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="14" lastUsage="1669896326890" />
+    </language>
+    <language id="XML">
+      <summary usageCount="99" lastUsage="1669643855916" />
+    </language>
+    <language id="XQuery">
+      <summary usageCount="17" lastUsage="1669643911047" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qt_xml" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qt_xml" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.qt_xml" executorId="Run" />
+      <element setting="CMake Application.qt_xml" executorId="Debug" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",QUALIFIED_NAMES" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100995000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" weight="0.21900001" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.840311" visible="true" weight="0.22833332" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.21900001" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32989264" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.37969923" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" sideWeight="0.5109391" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.32989264" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.33029002" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.26154673" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.33029002" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.40655208" />
+      <window_info anchor="bottom" id="Query Log" order="11" sideWeight="0.48906082" side_tool="true" weight="0.4000826" />
+      <window_info anchor="bottom" id="Services" order="12" weight="0.33029002" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" weight="0.32994792" />
+      <window_info anchor="right" id="make" order="4" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Commit</value>
+      <value>CMake</value>
+      <value>Structure</value>
+      <value>Terminal</value>
+      <value>TODO</value>
+      <value>Find</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Query Log</value>
+      <value>Key Promoter X</value>
+      <value>Services</value>
+      <value>Version Control</value>
+      <value>Python Packages</value>
+      <value>Hierarchy</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="391" width="606" height="461" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1666559803022">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="657" y="391" width="606" height="461" key="#com.intellij.fileTypes.FileTypeChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666559803022" />
+    <state x="430" y="73" width="405" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1668432642358">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="430" y="73" width="405" height="628" key="#com.intellij.ide.util.MemberChooser/0.32.1500.968@0.32.1500.968" timestamp="1668432642358" />
+    <state x="551" y="24" width="816" height="734" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668346987523" />
+    <state x="461" y="137" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1668433950719">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="461" y="137" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1500.968@0.32.1500.968" timestamp="1668433950719" />
+    <state x="698" y="355" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668346601149">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="698" y="355" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668346601149" />
+    <state x="723" y="437" width="474" height="358" key="#com.intellij.tools.ToolEditorDialog" timestamp="1666284561989">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="723" y="437" width="474" height="358" key="#com.intellij.tools.ToolEditorDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666284561989" />
+    <state width="406" height="473" key="DebuggerActiveHint" timestamp="1668292005702">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="406" height="473" key="DebuggerActiveHint/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668292005702" />
+    <state x="584" y="236" width="424" height="499" key="FileChooserDialogImpl" timestamp="1668437146410">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="584" y="236" width="424" height="499" key="FileChooserDialogImpl/0.32.1500.968@0.32.1500.968" timestamp="1668437146410" />
+    <state x="748" y="302" width="424" height="499" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667070909510" />
+    <state width="1454" height="325" key="GridCell.Tab.0.bottom" timestamp="1669725169686">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="325" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1669725169686" />
+    <state width="1874" height="219" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668370182062" />
+    <state width="1454" height="325" key="GridCell.Tab.0.center" timestamp="1669725169686">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="325" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1669725169686" />
+    <state width="1874" height="219" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668370182062" />
+    <state width="1454" height="325" key="GridCell.Tab.0.left" timestamp="1669725169685">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="325" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1669725169685" />
+    <state width="1874" height="219" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668370182062" />
+    <state width="1454" height="325" key="GridCell.Tab.0.right" timestamp="1669725169686">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="325" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1669725169686" />
+    <state width="1874" height="219" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668370182062" />
+    <state width="1874" height="456" key="GridCell.Tab.1.bottom" timestamp="1666571286890">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="456" key="GridCell.Tab.1.bottom/0.32.1500.968@0.32.1500.968" timestamp="1666295280569" />
+    <state width="1874" height="456" key="GridCell.Tab.1.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666571286890" />
+    <state width="1874" height="456" key="GridCell.Tab.1.center" timestamp="1666571286890">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="456" key="GridCell.Tab.1.center/0.32.1500.968@0.32.1500.968" timestamp="1666295280569" />
+    <state width="1874" height="456" key="GridCell.Tab.1.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666571286890" />
+    <state width="1874" height="456" key="GridCell.Tab.1.left" timestamp="1666571286890">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="456" key="GridCell.Tab.1.left/0.32.1500.968@0.32.1500.968" timestamp="1666295280569" />
+    <state width="1874" height="456" key="GridCell.Tab.1.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666571286890" />
+    <state width="1874" height="456" key="GridCell.Tab.1.right" timestamp="1666571286890">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="456" key="GridCell.Tab.1.right/0.32.1500.968@0.32.1500.968" timestamp="1666295280569" />
+    <state width="1874" height="456" key="GridCell.Tab.1.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666571286890" />
+    <state x="561" y="196" width="374" height="647" key="RollbackChangesDialog" timestamp="1668875185017">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="561" y="196" width="374" height="647" key="RollbackChangesDialog/0.32.1500.968@0.32.1500.968" timestamp="1668875185017" />
+    <state x="355" y="72" width="1016" height="745" key="SettingsEditor" timestamp="1668434079519">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="355" y="72" width="1016" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1668434079519" />
+    <state x="454" y="225" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666556147408" />
+    <state width="640" height="264" key="ShowBookmarks" timestamp="1668365642780">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="640" height="264" key="ShowBookmarks/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668365642780" />
+    <state width="498" height="377" key="SwitcherDM" timestamp="1668433489423">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="498" height="377" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1668433489423" />
+    <state width="498" height="486" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668369938281" />
+    <state x="188" y="216" width="1051" height="551" key="Vcs.Push.Dialog.v2" timestamp="1668875243736">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="188" y="216" width="800" height="543" key="Vcs.Push.Dialog.v2/0.32.1500.968@0.32.1500.968" timestamp="1668875243736" />
+    <state x="334" y="537" width="1051" height="551" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668369543165" />
+    <state x="698" y="232" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1668284786037">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="698" y="232" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668284786037" />
+    <state x="747" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668353152597">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="747" y="532" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668353152597" />
+    <state x="495" y="131" width="582" height="496" key="find.popup" timestamp="1668437171302">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="495" y="131" width="582" height="496" key="find.popup/0.32.1500.968@0.32.1500.968" timestamp="1668437171302" />
+    <state x="633" y="159" width="677" height="552" key="find.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668369489899" />
+    <state x="609" y="363" width="700" height="530" key="recent.locations.popup" timestamp="1668346982772">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="609" y="363" width="700" height="530" key="recent.locations.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668346982772" />
+    <state x="822" y="24" width="903" height="448" key="refactoring.ChangeSignatureDialog" timestamp="1668352070154">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="645" y="24" width="706" height="459" key="refactoring.ChangeSignatureDialog/0.32.1500.968@0.32.1500.968" timestamp="1666615030363" />
+    <state x="822" y="24" width="903" height="448" key="refactoring.ChangeSignatureDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668352070154" />
+    <state x="624" y="299" width="672" height="686" key="run.anything.popup" timestamp="1666284735958">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="624" y="299" width="672" height="686" key="run.anything.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666284735958" />
+    <state x="487" y="245" width="672" height="533" key="search.everywhere.popup" timestamp="1668434084531">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="487" y="245" width="672" height="533" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1668434084531" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668365645867" />
+    <state x="478" y="405" width="540" height="229" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1666613481844">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="478" y="405" width="540" height="229" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.32.1500.968@0.32.1500.968" timestamp="1666613481844" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>root==NULL</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>root==nullptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element_item== nullptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>element.d.ptr</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>this-&gt;ui-&gt;tabWidget-&gt;currentIndex()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ui-&gt;tabWidget-&gt;currentIndex()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>qDebug() &lt;&lt; name;</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>1+2</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name.toStdString().c_str()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>name.toStdString()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/результаты ЕГЭ.xml" />
+    <entry file="file://$PROJECT_DIR$/data/test.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="462">
+            <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtWidgets/qabstractitemview.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="130" column="24" selection-start-line="130" selection-start-column="24" selection-end-line="130" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtXml/qdom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="260" column="20" selection-start-line="260" selection-start-column="20" selection-end-line="260" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtCore/qstring.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="1310" selection-start-line="1310" selection-end-line="1310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://10" />
+    <entry file="cidr-memory-view://12" />
+    <entry file="cidr-memory-view://15" />
+    <entry file="cidr-memory-view://17" />
+    <entry file="file://$PROJECT_DIR$/Makefile" />
+    <entry file="file://$PROJECT_DIR$/data/ЕГЭ.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="43" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtWidgets/qtreeview.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3861">
+          <caret line="143" column="9" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtCore/qvariant.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="498" column="11" selection-start-line="498" selection-start-column="11" selection-end-line="498" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/bits/sched.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtCore/qstringlist.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="110" column="6" selection-start-line="110" selection-start-column="6" selection-end-line="110" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://25" />
+    <entry file="cidr-memory-view://27" />
+    <entry file="file:///usr/include/qt/QtCore/qvector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="954" column="24" selection-start-line="954" selection-start-column="24" selection-end-line="954" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://29" />
+    <entry file="file:///usr/include/qt/QtCore/qobjectdefs_impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="442" selection-start-line="442" selection-end-line="442" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://31" />
+    <entry file="cidr-memory-view://33" />
+    <entry file="cidr-memory-view://35" />
+    <entry file="file:///usr/include/qt/QtCore/qlist.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="578" selection-start-line="578" selection-end-line="578" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtCore/qnamespace.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="1537" column="26" lean-forward="true" selection-start-line="1537" selection-start-column="26" selection-end-line="1537" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtWidgets/qaction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2755">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtWidgets/qmessagebox.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="50" column="6" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtWidgets/qwidgetaction.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtCore/qabstractitemmodel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1838">
+          <caret line="167" column="55" lean-forward="true" selection-start-line="167" selection-start-column="55" selection-end-line="167" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/qt_xml_autogen/EWIEGA46WW/moc_mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3249">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding>
+            <element signature="e#343#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwindow.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="245" column="11" selection-start-line="245" selection-start-column="2" selection-end-line="245" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/xquery.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/qt_xml_autogen/include/ui_mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cppbasics/qt_notepad/src/resources.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="52" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/icons/icons.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/translations.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/translations.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ЗАГСы.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code.md" />
+    <entry file="file:///usr/include/qt/QtGui/qstandarditemmodel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/храмы.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret column="555" selection-start-column="334" selection-end-column="555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/фонари.xq">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/храмы на бауманской.xq">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5280">
+          <caret line="241" lean-forward="true" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMLModel.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="153" column="25" lean-forward="true" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/qt_xml.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/XMLModel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

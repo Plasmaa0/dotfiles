@@ -1,0 +1,624 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bd_datagrip" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="fn1131_2022@195.19.32.74: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="fn1131_2022@195.19.32.74: DSN" type="27e358d6:DataSourceNode" />
+        <item name="fn1131_2022: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="fn1131_2022@195.19.32.74: DSN" type="27e358d6:DataSourceNode" />
+        <item name="fn1131_2022: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="fn1131_2022@195.19.32.74: DSN" type="27e358d6:DataSourceNode" />
+        <item name="fn1131_2022: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 8 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="fn1131_2022@195.19.32.74: DSN" type="27e358d6:DataSourceNode" />
+        <item name="fn1131_2022: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 8 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="Баллы: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1986">
+              <caret line="309" column="31" selection-start-line="309" selection-start-column="31" selection-end-line="309" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_1/functions.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="3" lastUsed="1667038926025" />
+    </fileType>
+    <fileType name="Database Element">
+      <summary usageCount="150" lastUsed="1668265322561" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="148" lastUsed="1668435937996" />
+    </fileType>
+    <fileType name="UML">
+      <summary usageCount="42" lastUsed="1668007529709" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="9" lastUsed="1667998389111" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>key</find>
+      <find>myTable</find>
+      <find>MOCKDATA</find>
+      <find>on_new_sell_trigger</find>
+      <find>cost</find>
+      <find>scan</find>
+      <find>cond</find>
+      <find>bread</find>
+      <find>sandwich_maslo</find>
+      <find>salami</find>
+      <find>batter</find>
+      <find>sandwich</find>
+      <find>amount</find>
+      <find>МестаФакультетовБезГруппировки</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>sellers</replace>
+      <replace>customers</replace>
+      <replace>goods(seller_id, description,cost)</replace>
+      <replace>orders(customer_id,is_finished,time)</replace>
+      <replace>sells(order_id,good_id,amount)</replace>
+      <replace>хлеб</replace>
+      <replace>бутер с маслом</replace>
+      <replace>колбаса</replace>
+      <replace>масло</replace>
+      <replace>просто бутер</replace>
+      <replace>КонкурсыИМестаФакультетовБезГруппировки</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e35b21c0-f879-4430-8d3d-088e4d86818c/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f6a80418-b0b8-4ef9-984b-d4145b151c32/console.sql" />
+      <option value="$PROJECT_DIR$/setup_triggers.sql" />
+      <option value="$PROJECT_DIR$/functions.sql" />
+      <option value="$PROJECT_DIR$/create_tables.sql" />
+      <option value="$PROJECT_DIR$/lab_1/create_tables.sql" />
+      <option value="$PROJECT_DIR$/lab_2/sellers_create.sql" />
+      <option value="$PROJECT_DIR$/lab_2/create_customers.sql" />
+      <option value="$PROJECT_DIR$/lab_2/create_goods.sql" />
+      <option value="$PROJECT_DIR$/lab_2/create_orders.sql" />
+      <option value="$PROJECT_DIR$/lab_2/create_sells.sql" />
+      <option value="$PROJECT_DIR$/lab_2/calculate_total_costs.sql" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/lab_2/generate_goods.py" />
+      <option value="$PROJECT_DIR$/lab_2/playground.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c81ffc98-14a4-42c4-8241-111e41849bab/console.sql" />
+      <option value="$PROJECT_DIR$/lab_2/create_tables.sql" />
+      <option value="$PROJECT_DIR$/lab_2/functions.sql" />
+      <option value="$PROJECT_DIR$/dz_restoran/r.md" />
+      <option value="$PROJECT_DIR$/lab_1/setup_triggers.sql" />
+      <option value="$PROJECT_DIR$/dz_restoran/dz.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/e3cff161-c2ed-4ffe-8ef7-701327daca37/console.sql" />
+      <option value="$PROJECT_DIR$/console.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="148" lastUsage="1668435937996" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="9" lastUsage="1667998389113" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bd_datagrip" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_datagrip" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+            <path>
+              <item name="bd_datagrip" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_datagrip" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <item name="dz_restoran" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_datagrip" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_datagrip" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <item name="lab_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_datagrip" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_datagrip" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <item name="lab_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Database Script.reset_db" executorId="Run" />
+      <element setting="Database Script.create_sells.sql" executorId="Run" />
+      <element setting="Database Script.create_orders.sql" executorId="Run" />
+      <element setting="Database Script.create_goods.sql" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1677193" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="fn1131_2022@195.19.32.74: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="fn1131_2022@195.19.32.74: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.23255208" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Database" order="1" visible="true" weight="0.16299999" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35962015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" weight="0.32989264" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.33029002" />
+      <window_info anchor="bottom" id="Services" order="8" visible="true" weight="0.30988187" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" sideWeight="0.50096524" visible="true" weight="0.177" />
+      <window_info anchor="right" id="Structure" order="1" sideWeight="0.49903476" side_tool="true" weight="0.17166667" />
+      <window_info anchor="right" id="Notifications" order="2" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Run</value>
+      <value>TODO</value>
+      <value>Commit</value>
+      <value>Messages</value>
+      <value>Find</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="51" y="336" width="1393" height="335" key="#SQL_Dialects" timestamp="1665400522900">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="51" y="336" width="1393" height="335" key="#SQL_Dialects/0.32.1500.968@0.32.1500.968" timestamp="1665400522900" />
+    <state x="435" y="166" width="1051" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668004221544">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="350" y="24" width="937" height="968" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1500.968@0.32.1500.968" timestamp="1667033630660" />
+    <state x="435" y="166" width="1051" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668004221544" />
+    <state x="448" y="187" width="800" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664826930961" />
+    <state x="680" y="226" width="474" height="353" key="#com.intellij.tools.ToolEditorDialog" timestamp="1666909953549">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="680" y="226" width="474" height="353" key="#com.intellij.tools.ToolEditorDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666909953549" />
+    <state x="748" y="24" width="532" height="485" key="FileChooserDialogImpl" timestamp="1668033156510">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="584" y="24" width="532" height="485" key="FileChooserDialogImpl/0.32.1500.968@0.32.1500.968" timestamp="1667035429952" />
+    <state x="748" y="24" width="569" height="440" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668033156510" />
+    <state x="748" y="266" width="424" height="499" key="FileChooserDialogImpl/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664826724459" />
+    <state width="1185" height="260" key="GridCell.Tab.0.bottom" timestamp="1668435942956">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1185" height="260" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1668435942956" />
+    <state width="1535" height="347" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668265853558" />
+    <state width="1291" height="382" key="GridCell.Tab.0.bottom/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664832907379" />
+    <state width="1185" height="260" key="GridCell.Tab.0.center" timestamp="1668435942956">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1185" height="260" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1668435942956" />
+    <state width="1535" height="347" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668265853558" />
+    <state width="1291" height="382" key="GridCell.Tab.0.center/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664832907379" />
+    <state width="1185" height="260" key="GridCell.Tab.0.left" timestamp="1668435942953">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1185" height="260" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1668435942953" />
+    <state width="1535" height="347" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668265853558" />
+    <state width="1291" height="382" key="GridCell.Tab.0.left/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664832907379" />
+    <state width="1185" height="260" key="GridCell.Tab.0.right" timestamp="1668435942956">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1185" height="260" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1668435942956" />
+    <state width="1535" height="347" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668265853558" />
+    <state width="1291" height="382" key="GridCell.Tab.0.right/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664832907379" />
+    <state width="379" height="653" key="HiddenNamespacesPopup" timestamp="1668263773434">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="296" height="506" key="HiddenNamespacesPopup/0.32.1500.968@0.32.1500.968" timestamp="1667226123899" />
+    <state width="379" height="653" key="HiddenNamespacesPopup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668263773434" />
+    <state width="344" height="506" key="HiddenNamespacesPopup/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664826952970" />
+    <state width="200" height="43" key="PlanView.ShowFull" timestamp="1667038071565">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="200" height="43" key="PlanView.ShowFull/0.32.1500.968@0.32.1500.968" timestamp="1667038071565" />
+    <state x="509" y="158" width="482" height="647" key="RollbackChangesDialog" timestamp="1666888578410">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="509" y="158" width="482" height="647" key="RollbackChangesDialog/0.32.1500.968@0.32.1500.968" timestamp="1666888578410" />
+    <state x="313" y="58" width="1296" height="897" key="SettingsEditor" timestamp="1668262933900">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="244" y="77" width="1016" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1667037378714" />
+    <state x="313" y="58" width="1296" height="897" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668262933900" />
+    <state x="625" y="164" key="SettingsEditor/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1667063745682" />
+    <state width="582" height="464" key="SwitcherDM" timestamp="1667036400885">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="582" height="464" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1667036400885" />
+    <state x="626" y="391" width="248" height="181" key="VCS.EditChangelistDialog" timestamp="1667039206992">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="626" y="391" width="248" height="181" key="VCS.EditChangelistDialog/0.32.1500.968@0.32.1500.968" timestamp="1667039206992" />
+    <state x="560" y="312" width="800" height="498" key="Vcs.Push.Dialog.v2" timestamp="1667999235216">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="438" y="133" width="800" height="498" key="Vcs.Push.Dialog.v2/0.32.1500.968@0.32.1500.968" timestamp="1667247931121" />
+    <state x="560" y="312" width="800" height="571" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667999235216" />
+    <state x="777" y="24" width="510" height="411" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1668263854326">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="607" y="24" width="514" height="380" key="com.intellij.database.actions.DbDeleteProvider$2/0.32.1500.968@0.32.1500.968" timestamp="1667913177730" />
+    <state x="777" y="24" width="510" height="411" key="com.intellij.database.actions.DbDeleteProvider$2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668263854326" />
+    <state x="777" y="438" width="361" height="363" key="com.intellij.database.actions.DbDeleteProvider$2/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664832888711" />
+    <state x="471" y="24" width="945" height="800" key="com.intellij.database.actions.ddl.DbModifyObjectDialog" timestamp="1667038810830">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="471" y="24" width="945" height="800" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.32.1500.968@0.32.1500.968" timestamp="1667038810830" />
+    <state x="349" y="24" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666979669717" />
+    <state x="634" y="216" width="712" height="759" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664833049453" />
+    <state x="660" y="460" width="180" height="119" key="com.intellij.database.run.ParametersPanel.Standalone" timestamp="1667034970139">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="660" y="460" width="180" height="119" key="com.intellij.database.run.ParametersPanel.Standalone/0.32.1500.968@0.32.1500.968" timestamp="1667034970139" />
+    <state x="541" y="67" width="534" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1667037847312">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="541" y="67" width="534" height="517" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.32.1500.968@0.32.1500.968" timestamp="1667037847312" />
+    <state x="693" y="363" width="534" height="485" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664833118777" />
+    <state x="806" y="274" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1666909954196">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="806" y="274" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666909954196" />
+    <state x="591" y="199" width="439" height="258" key="data.grid.dml.preview.dialog" timestamp="1667226464243">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="591" y="199" width="439" height="258" key="data.grid.dml.preview.dialog/0.32.1500.968@0.32.1500.968" timestamp="1667226464243" />
+    <state x="756" y="527" width="403" height="233" key="data.grid.dml.preview.dialog/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1664831949349" />
+    <state x="529" y="296" width="861" height="886" key="search.everywhere.popup" timestamp="1668266116871">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1667229952451" />
+    <state x="529" y="296" width="861" height="886" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668266116871" />
+    <state x="1057" y="593" width="1721" height="1772" key="search.everywhere.popup/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1667063730947" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://c81ffc98-14a4-42c4-8241-111e41849bab/database/univer_bd/schema/public/table/recept">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667913603909" presentationMode="TABLE" projectRestartId="8a0c2a2b-02f3-4260-b741-872544e49dfa" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c81ffc98-14a4-42c4-8241-111e41849bab/database/univer_bd/schema/public/table/dishes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667913601625" presentationMode="TABLE" projectRestartId="8a0c2a2b-02f3-4260-b741-872544e49dfa" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/setup_triggers.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c81ffc98-14a4-42c4-8241-111e41849bab/database/univer_bd/schema/public/view/available_dishes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667998389253" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/ingredients">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667998488745" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/view/kkal_of_dishes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667998498458" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c81ffc98-14a4-42c4-8241-111e41849bab/database/univer_bd/schema/public/table/warehouse">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1667999206278" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz_restoran/dz.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dz_restoran/r.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/c81ffc98-14a4-42c4-8241-111e41849bab.TABLE:univer_bd.public.Баллы">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="das://c81ffc98-14a4-42c4-8241-111e41849bab/database/univer_bd/schema/public/table/Конкурсы">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668002828062" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Участник_Факультет">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668005813442" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="&quot;Участник&quot;" />
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Участники">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668005801951" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="&quot;Участник&quot;" />
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Факультеты">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668005809759" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Конкурсы">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668005774119" presentationMode="TABLE" projectRestartId="57e8f13a-db3d-48df-8de1-bd2adc69c2de" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/view/test_view">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668006476869" presentationMode="TABLE" projectRestartId="bc7234c0-d1b8-4425-88d5-c215c2fb206f" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e3cff161-c2ed-4ffe-8ef7-701327daca37/console.sql" />
+    <entry file="uml://QUERY_PLAN/">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="uml://DATABASE/e3cff161-c2ed-4ffe-8ef7-701327daca37">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Победители_и_призеры">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668265322501" presentationMode="TABLE" projectRestartId="5285ab21-7003-410b-977b-672a86290c06" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://e3cff161-c2ed-4ffe-8ef7-701327daca37/database/fn1131_2022/schema/public/table/Баллы">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1668265303576" presentationMode="TABLE" projectRestartId="5285ab21-7003-410b-977b-672a86290c06" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="&quot;Участник&quot; DESC" />
+            <sort text="&quot;Участник&quot;" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/create_tables.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1986">
+          <caret line="309" column="31" selection-start-line="309" selection-start-column="31" selection-end-line="309" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_1/functions.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

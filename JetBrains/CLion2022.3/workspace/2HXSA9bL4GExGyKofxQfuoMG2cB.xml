@@ -1,0 +1,191 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ostream_iterator" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algorithms.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="2" lastUsed="1668430042039" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="1" lastUsed="1668429797597" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="4" lastUsed="1668430042074" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Makefile" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="2" lastUsage="1668430042039" />
+    </language>
+    <language id="Makefile">
+      <summary usageCount="1" lastUsage="1668429797597" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="4" lastUsage="1668430042074" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ostream_iterator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ostream_iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="ostream_iterator" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/infa/ostream_iterator" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Makefile Application.all" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" commandHistoryFileName="ostream_iterator-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="399000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17433333" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35962015" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33029002" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32989264" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33029002" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="bottom" id="Build" order="13" show_stripe_button="false" weight="0.33029002" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="make" order="4" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="227" y="24" width="1037" height="819" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1668430137506">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="227" y="24" width="1037" height="819" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1500.968@0.32.1500.968" timestamp="1668430137506" />
+    <state x="244" y="24" width="1012" height="745" key="SettingsEditor" timestamp="1668430172508">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="244" y="24" width="1012" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1668430172508" />
+    <state x="301" y="415" width="897" height="209" key="makefile.clean.confirm.dialog" timestamp="1668430050984">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="301" y="415" width="897" height="209" key="makefile.clean.confirm.dialog/0.32.1500.968@0.32.1500.968" timestamp="1668430050984" />
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup" timestamp="1668430162459">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1668430162459" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Makefile" />
+    <entry file="file://$PROJECT_DIR$/Algorithms.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="75" selection-start-line="7" selection-start-column="75" selection-end-line="7" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

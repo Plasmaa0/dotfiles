@@ -1,0 +1,78 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2HPSy9ch8BR2o82f1dPsMhiTYFh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HpE0g0fhfDT4EehILePNlk5crP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "ColorChooser.RecentColors": "6-245-133-255,,,111-138-192-255,,,180-204-255-255,,,138-177-255-255,,,15-34-77-255,,,7-16-37-255,,,158-208-213-255,,,147-185-152-255,,,46-89-62-255,,,43-73-59-255,,,1-30-1-255,,,13-14-11-255,,,149-168-159-255,,,222-197-197-255,,,87-210-232-255,,,255-8-16-255,,,243-126-9-255,,,40-75-59-255,,,62-52-52-255,,,0-31-3-255",
+    "FindSplitterProportion": "0.33015266",
+    "GeneralSettings.initiallyConfigured": "true",
+    "JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL": "22",
+    "JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL": "0",
+    "JSHintOptionsTreeView.TREE_SELECTED_NODE_ID": "1",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "MarketplacePluginsSearchHistory": "glance\nmi\nm\ntypesc\ntypes",
+    "MemberChooser.copyJavadoc": "false",
+    "MemberChooser.showClasses": "true",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "version",
+    "TextEditorWithPreview.SplitterProportionKey": "0.6881547",
+    "appcds.runOnSecondStart": "WS-223.7571.168-1075674ece470e7338d001bc5e7502e33cce56e6673c4754a27ecdb733af5dc3",
+    "bundled.plugins.list.saved.version": "WS-223.7571.168",
+    "evlsprt3.222": "24",
+    "evlsprt3.223": "26",
+    "file.gist.reindex.count": "8",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.terminal.smart_command_execution": "1",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "javascript.refactoring.extractComponent.property.key": "Function",
+    "js.extract.function.global.scope.was.selected": "true",
+    "js.rename.search.for.text.occurrences": "false",
+    "js.rename.search.in.comments": "false",
+    "last_opened_file_path": "/home/plasmaa0/infa/bd_3",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Spectrum)",
+    "registry.to.advanced.settings.migration.build": "WS-223.7571.168",
+    "tasks.pass.word.conversion.enforced": "true",
+    "ts.lib.d.ts.version": "4.7.4"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/plasmaa0/infa/bd_3"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="react_app-history" project-path="$USER_HOME$/infa/bd_3/react_app" last-access-time="1671497786803" />
+    </command-history-files>
+  </component>
+</application>

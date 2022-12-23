@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/infa/bd_datagrip">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd_datagrip – branches" projectWorkspaceId="2Fd3Hs0QfDPgzxRRpgoPpWqIK4v">
+              <option name="activationTimestamp" value="1664911525286" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-222.4345.5" />
+              <option name="buildTimestamp" value="1664293583087" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1664808049185" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_univer/bd_datagrip">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd_datagrip – console.sql" projectWorkspaceId="2Fd3Hs0QfDPgzxRRpgoPpWqIK4v">
+              <option name="activationTimestamp" value="1668435955952" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-222.4345.5" />
+              <option name="buildTimestamp" value="1664293561678" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1668262427166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd3 – tables.sql" opened="true" projectWorkspaceId="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+              <option name="activationTimestamp" value="1671572237650" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-222.4345.5" />
+              <option name="buildTimestamp" value="1664293594234" />
+              <frame x="10" y="39" width="1474" height="945" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1668435956448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/infa/bd_3" />
+  </component>
+</application>

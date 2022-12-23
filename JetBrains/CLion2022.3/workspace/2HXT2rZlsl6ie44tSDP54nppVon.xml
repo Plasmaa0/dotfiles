@@ -1,0 +1,143 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ostream_iterator" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="1" lastUsed="1668430228490" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="2" lastUsed="1668430302197" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/OStreamIterator.hpp" />
+      <option value="$PROJECT_DIR$/Algorithms.hpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="1" lastUsage="1668430228490" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="2" lastUsage="1668430302197" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MeshLoader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ostream_iterator" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.ostit" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="962000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17433333" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.35929108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33029002" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32989264" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32989264" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="make" order="3" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1454" height="306" key="GridCell.Tab.0.bottom" timestamp="1668432292923">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1668432292923" />
+    <state width="1454" height="306" key="GridCell.Tab.0.center" timestamp="1668432292923">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1668432292923" />
+    <state width="1454" height="306" key="GridCell.Tab.0.left" timestamp="1668432292923">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1668432292923" />
+    <state width="1454" height="306" key="GridCell.Tab.0.right" timestamp="1668432292923">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1668432292923" />
+    <state width="498" height="443" key="SwitcherDM" timestamp="1668430298784">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="498" height="443" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1668430298784" />
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup" timestamp="1668430302201">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1668430302201" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OStreamIterator.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="4" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithms.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

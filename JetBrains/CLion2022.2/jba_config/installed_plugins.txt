@@ -1,0 +1,6 @@
+monokai-pro
+com.nasller.CodeGlancePro
+com.intellij.properties
+uk.co.reecedunn.intellij.plugin.xquery
+Key Promoter X
+com.mallowigi

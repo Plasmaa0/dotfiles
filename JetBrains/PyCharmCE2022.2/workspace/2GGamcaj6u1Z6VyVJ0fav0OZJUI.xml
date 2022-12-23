@@ -1,0 +1,552 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bd_univer" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11375">
+              <caret line="339" column="8" selection-start-line="339" selection-start-column="8" selection-end-line="339" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab_2/bmstu.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab_2/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="805">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="10" lastUsed="1667034461604" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="5" lastUsed="1667034414786" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1666100921040" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="20" lastUsed="1668779481092" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="12" lastUsed="1668779481256" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1666096559715" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="74" lastUsed="1668779480856" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="5" lastUsed="1666706694717" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="1" lastUsed="1666100903976" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>slot</find>
+      <find>setplai</find>
+      <find>changed</find>
+      <find>history</find>
+      <find>query</find>
+      <find>style</find>
+      <find>error load</find>
+      <find>main_layout</find>
+      <find>connection_status_label</find>
+      <find>запус</find>
+      <find>)</find>
+      <find>.</find>
+      <find>\b</find>
+      <find>&lt;item&gt;</find>
+      <find>IF</find>
+      <find>'\\\\b</find>
+      <find>\\\\b'</find>
+      <find>readonl</find>
+      <find>maxim</find>
+      <find>button</find>
+      <find>показать</find>
+      <find>run_query</find>
+      <find>ANAL</find>
+      <find>listwid</find>
+      <find>history_widget</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'\\b</replace>
+      <replace>\\\\b'</replace>
+      <replace>\\\\b',</replace>
+      <replace>'\\\\b</replace>
+      <replace>\\\\b^(</replace>
+      <replace>'\\\\b^(</replace>
+      <replace>\\\\b)$&quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/lab_2</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/requirements.txt" />
+      <option value="$PROJECT_DIR$/lab_2/highlight_rules.py" />
+      <option value="$PROJECT_DIR$/lab_2/highlighter.py" />
+      <option value="$PROJECT_DIR$/lab_2/history.json" />
+      <option value="$PROJECT_DIR$/lab_2/README.md" />
+      <option value="$PROJECT_DIR$/lab_2/settings.json" />
+      <option value="$PROJECT_DIR$/lab_2/main.py" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="5" lastUsage="1667034414786" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="20" lastUsage="1668779481093" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="12" lastUsage="1668779481256" />
+    </language>
+    <language id="Python">
+      <summary usageCount="74" lastUsage="1668779480875" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="1" lastUsage="1666100903976" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1666096559715" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bd_univer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bd_univer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_univer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bd_univer" type="462c0819:PsiDirectoryNode" />
+              <item name="bd_datagrip" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_univer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bd_univer" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_univer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bd_univer" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_app" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd_univer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bd_univer" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.lab_2" executorId="Run" />
+      <element setting="Python.flask_lab_1" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Pull Requests" weight="0.33016667" />
+      <window_info id="Commit" sideWeight="0.5004717" weight="0.2665" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5004717" visible="true" weight="0.16383334" />
+      <window_info id="Learn" order="2" weight="0.33007812" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3300991" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3300991" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.25371593" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.3300215" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3300215" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3300215" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="1" sideWeight="0.4995283" weight="0.17070313" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Pull Requests" weight="0.33016667" />
+      <window_info id="Commit" sideWeight="0.5004717" visible="true" weight="0.25783333" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5004717" weight="0.15742187" />
+      <window_info id="Learn" order="2" weight="0.33007812" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3300991" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3300991" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3300215" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.3300215" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3300215" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3300215" />
+      <window_info anchor="bottom" id="Services" order="10" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Structure" order="1" sideWeight="0.4995283" weight="0.17070313" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Version Control</value>
+      <value>Learn</value>
+      <value>Structure</value>
+      <value>Find</value>
+      <value>Pull Requests</value>
+      <value>Python Packages</value>
+      <value>Python Console</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="973" y="523" width="1517" height="1188" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1666115519164">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="973" y="523" width="1517" height="1188" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.64.3000.1936@0.64.3000.1936" timestamp="1666115519164" />
+    <state x="971" y="521" width="1048" height="1034" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1666021848771">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="971" y="521" width="1048" height="1034" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.64.3000.1936@0.64.3000.1936" timestamp="1666021848771" />
+    <state x="1302" y="594" width="848" height="998" key="FileChooserDialogImpl" timestamp="1668779511022">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="1302" y="594" width="848" height="998" key="FileChooserDialogImpl/0.64.3000.1936@0.64.3000.1936" timestamp="1668779511021" />
+    <state x="1667" y="752" key="FileChooserDialogImpl/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666249579003" />
+    <state width="3750" height="558" key="GridCell.Tab.0.bottom" timestamp="1668041779453">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="2910" height="558" key="GridCell.Tab.0.bottom/0.64.3000.1936@0.64.3000.1936" timestamp="1667227424347" />
+    <state width="3750" height="558" key="GridCell.Tab.0.bottom/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1668041779453" />
+    <state width="2910" height="558" key="GridCell.Tab.0.bottom/0.64.3840.2496/3840.560.3000.2000@3840.560.3000.2000" timestamp="1666118378799" />
+    <state width="3750" height="558" key="GridCell.Tab.0.center" timestamp="1668041779452">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="2910" height="558" key="GridCell.Tab.0.center/0.64.3000.1936@0.64.3000.1936" timestamp="1667227424346" />
+    <state width="3750" height="558" key="GridCell.Tab.0.center/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1668041779452" />
+    <state width="2910" height="558" key="GridCell.Tab.0.center/0.64.3840.2496/3840.560.3000.2000@3840.560.3000.2000" timestamp="1666118378798" />
+    <state width="3750" height="558" key="GridCell.Tab.0.left" timestamp="1668041779451">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="2910" height="558" key="GridCell.Tab.0.left/0.64.3000.1936@0.64.3000.1936" timestamp="1667227424346" />
+    <state width="3750" height="558" key="GridCell.Tab.0.left/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1668041779451" />
+    <state width="2910" height="558" key="GridCell.Tab.0.left/0.64.3840.2496/3840.560.3000.2000@3840.560.3000.2000" timestamp="1666118378798" />
+    <state width="3750" height="558" key="GridCell.Tab.0.right" timestamp="1668041779452">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="2910" height="558" key="GridCell.Tab.0.right/0.64.3000.1936@0.64.3000.1936" timestamp="1667227424347" />
+    <state width="3750" height="558" key="GridCell.Tab.0.right/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1668041779452" />
+    <state width="2910" height="558" key="GridCell.Tab.0.right/0.64.3840.2496/3840.560.3000.2000@3840.560.3000.2000" timestamp="1666118378799" />
+    <state x="1066" y="376" width="857" height="1292" key="RollbackChangesDialog" timestamp="1667033405013">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="1066" y="376" width="857" height="1292" key="RollbackChangesDialog/0.64.3000.1936@0.64.3000.1936" timestamp="1667033405013" />
+    <state x="491" y="229" width="2018" height="1490" key="SettingsEditor" timestamp="1667034893742">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="491" y="229" width="2018" height="1490" key="SettingsEditor/0.64.3000.1936@0.64.3000.1936" timestamp="1667034893742" />
+    <state x="628" y="281" key="SettingsEditor/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666173540370" />
+    <state width="1639" height="681" key="ShowBookmarks" timestamp="1666185298401">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="1280" height="528" key="ShowBookmarks/0.64.3000.1936@0.64.3000.1936" timestamp="1666038034249" />
+    <state width="1639" height="681" key="ShowBookmarks/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666185298401" />
+    <state width="996" height="879" key="SwitcherDM" timestamp="1667034159850">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state width="996" height="879" key="SwitcherDM/0.64.3000.1936@0.64.3000.1936" timestamp="1667034159850" />
+    <state x="695" y="399" width="1600" height="1142" key="Vcs.Push.Dialog.v2" timestamp="1666878214420">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="695" y="399" width="1600" height="1086" key="Vcs.Push.Dialog.v2/0.64.3000.1936@0.64.3000.1936" timestamp="1666878214420" />
+    <state x="890" y="474" width="1600" height="1142" key="Vcs.Push.Dialog.v2/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666185645076" />
+    <state x="4535" y="940" key="Vcs.Push.Dialog.v2/0.64.3840.2496/3840.560.3000.2000@3840.560.3000.2000" timestamp="1666118094479" />
+    <state x="971" y="439" width="1048" height="1198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1666819119292">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="971" y="439" width="1048" height="1198" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.64.3000.1936@0.64.3000.1936" timestamp="1666819119292" />
+    <state x="1069" y="864" width="852" height="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1666618162373">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="1069" y="864" width="852" height="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.64.3000.1936@0.64.3000.1936" timestamp="1666618162373" />
+    <state x="825" y="183" width="1607" height="1650" key="find.popup" timestamp="1666819108147">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="825" y="183" width="1607" height="1650" key="find.popup/0.64.3000.1936@0.64.3000.1936" timestamp="1666819108147" />
+    <state x="826" y="64" width="1591" height="220" key="search.everywhere.popup" timestamp="1667227765106">
+      <screen x="0" y="64" width="3000" height="1936" />
+    </state>
+    <state x="826" y="64" width="1591" height="220" key="search.everywhere.popup/0.64.3000.1936@0.64.3000.1936" timestamp="1667227765106" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtCore/QSettings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1777">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#173#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QPlainTextEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="471" column="19" selection-start-line="471" selection-start-column="12" selection-end-line="471" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QListView.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9337">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QListWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="297" column="8" selection-start-line="297" selection-start-column="8" selection-end-line="297" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_app/app/database_config.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QFileDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="250" column="8" selection-start-line="250" selection-start-column="8" selection-end-line="250" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtGui/QStandardItemModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="173" column="8" selection-start-line="173" selection-start-column="8" selection-end-line="173" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtCore/Qt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="157" column="4" selection-start-line="157" selection-start-column="4" selection-end-line="157" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="158" column="8" selection-start-line="158" selection-start-column="8" selection-end-line="158" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QBoxLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/1200px-OOjs_UI_icon_play-ltr.png" />
+    <entry file="file://$PROJECT_DIR$/flask_app/app/database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtGui/QTextCharFormat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="206" column="8" selection-start-line="206" selection-start-column="8" selection-end-line="206" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtGui/QTextFormat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="142" column="8" selection-start-line="142" selection-start-column="8" selection-end-line="142" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QLineEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="378" column="8" selection-start-line="378" selection-start-column="8" selection-end-line="378" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QFormLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QCheckBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/PyQt6/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25480">
+          <caret line="730" column="8" selection-start-line="730" selection-start-column="8" selection-end-line="730" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/highlighter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bd_datagrip/setup_triggers.sql" />
+    <entry file="file://$PROJECT_DIR$/bd_datagrip/functions.sql" />
+    <entry file="file://$PROJECT_DIR$/bd_datagrip/create_tables.sql" />
+    <entry file="file://$PROJECT_DIR$/lab_2/history.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/highlight_rules.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.10/site-packages/psycopg2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding>
+            <element signature="e#2088#2523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharmCE2022.2/python_stubs/-769629333/psycopg2/_psycopg/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="375" column="4" selection-start-line="375" selection-start-column="4" selection-end-line="375" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11375">
+          <caret line="339" column="8" selection-start-line="339" selection-start-column="8" selection-end-line="339" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/bmstu.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab_2/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

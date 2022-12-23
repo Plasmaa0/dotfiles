@@ -1,0 +1,36 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/infa/test_react_app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test_react_app – PaymentForm.tsx" projectWorkspaceId="2HPSy9ch8BR2o82f1dPsMhiTYFh">
+              <option name="activationTimestamp" value="1668973402027" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-222.4345.14" />
+              <option name="buildTimestamp" value="1664946108933" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1668185476818" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_3/react_app">
+          <value>
+            <RecentProjectMetaInfo frameTitle="react_app – manifest.json" opened="true" projectWorkspaceId="2HpE0g0fhfDT4EehILePNlk5crP">
+              <option name="activationTimestamp" value="1671540008971" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="WS-223.7571.168" />
+              <option name="buildTimestamp" value="1669636610768" />
+              <frame x="10" y="39" width="1474" height="945" />
+              <option name="productionCode" value="WS" />
+              <option name="projectOpenTimestamp" value="1671533580061" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/infa/bd_3/react_app" />
+    <option name="lastProjectLocation" value="$USER_HOME$/infa/bd_3" />
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="CompletionMLRankingSettings">
+    <option name="language2state">
+      <map>
+        <entry key="C/C++" value="true" />
+        <entry key="JavaScript" value="true" />
+        <entry key="Python" value="true" />
+        <entry key="SQL" value="false" />
+        <entry key="TypeScript" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

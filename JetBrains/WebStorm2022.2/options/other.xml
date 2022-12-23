@@ -1,0 +1,63 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2HPSy9ch8BR2o82f1dPsMhiTYFh">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HpE0g0fhfDT4EehILePNlk5crP">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
+    &quot;ColorChooser.RecentColors&quot;: &quot;111-138-192-255,,,180-204-255-255,,,138-177-255-255,,,15-34-77-255,,,7-16-37-255,,,158-208-213-255,,,147-185-152-255,,,46-89-62-255,,,43-73-59-255,,,1-30-1-255,,,13-14-11-255,,,149-168-159-255,,,222-197-197-255,,,87-210-232-255,,,255-8-16-255,,,243-126-9-255,,,6-245-133-255,,,40-75-59-255,,,62-52-52-255,,,0-31-3-255&quot;,
+    &quot;FindSplitterProportion&quot;: &quot;0.33015266&quot;,
+    &quot;GeneralSettings.initiallyConfigured&quot;: &quot;true&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;glance\nmi\nm\ntypesc\ntypes&quot;,
+    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
+    &quot;TextEditorWithPreview.SplitterProportionKey&quot;: &quot;0.6881547&quot;,
+    &quot;appcds.runOnSecondStart&quot;: &quot;WS-222.4345.14-b698e639807873d408e3a19fbafc57d6791b021a6719545f9ab9707e0ba282cf&quot;,
+    &quot;bundled.plugins.list.saved.version&quot;: &quot;WS-222.4345.14&quot;,
+    &quot;evlsprt3.222&quot;: &quot;24&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;4&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;13.0&quot;,
+    &quot;got.it.tooltip.js.debugger.terminal.start.debugger.from.url&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.terminal.smart_command_execution&quot;: &quot;1&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;js.extract.function.global.scope.was.selected&quot;: &quot;true&quot;,
+    &quot;js.rename.search.for.text.occurrences&quot;: &quot;false&quot;,
+    &quot;js.rename.search.in.comments&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/plasmaa0/infa/bd_3&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Monokai Pro (Filter Spectrum)&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;WS-222.4345.14&quot;,
+    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;4.7.4&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/plasmaa0/infa/bd_3&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+</application>

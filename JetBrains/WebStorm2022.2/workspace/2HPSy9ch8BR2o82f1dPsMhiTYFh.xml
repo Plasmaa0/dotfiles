@@ -1,0 +1,370 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="test_react_app" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/PaymentForm.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="5" lastUsed="1668189985569" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1668190004460" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="3" lastUsed="1668189998183" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="8" lastUsed="1668190048061" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="11" lastUsed="1668190040275" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="2" lastUsed="1668188107122" />
+    </fileType>
+    <fileType name="TypeScript JSX">
+      <summary usageCount="5" lastUsed="1668973340169" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="1" lastUsed="1668186183689" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>5.12.</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/index.tsx" />
+      <option value="$PROJECT_DIR$/tsconfig.json" />
+      <option value="$PROJECT_DIR$/tailwind.config.js" />
+      <option value="$PROJECT_DIR$/src/index.css" />
+      <option value="$PROJECT_DIR$/build/index.html" />
+      <option value="$PROJECT_DIR$/build/static/js/main.a3efc79c.chunk.js" />
+      <option value="$PROJECT_DIR$/build/static/js/runtime~main.a8a9905a.js" />
+      <option value="$PROJECT_DIR$/package.json" />
+      <option value="$PROJECT_DIR$/src/components/PaymentForm.tsx" />
+      <option value="$PROJECT_DIR$/src/App.tsx" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="5" lastUsage="1668189985569" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1668190004460" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="9" lastUsage="1668190048061" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="11" lastUsage="1668190040275" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="2" lastUsage="1668188107122" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="5" lastUsage="1668973340169" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test_react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_react_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="test_react_app" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/infa/test_react_app" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.npm start" executorId="Run" />
+      <element setting="npm.build" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6231000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.32994792" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.18233332" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" sideWeight="0.39087513" weight="0.290256" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" sideWeight="0.5002668" weight="0.32989264" />
+      <window_info anchor="bottom" id="Services" order="7" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.6091249" side_tool="true" weight="0.290256" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Services</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="466" width="917" height="421" key="#ESLint" timestamp="1668186231264">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="702" y="466" width="917" height="421" key="#ESLint/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668186231264" />
+    <state x="696" y="393" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668185858203">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="696" y="393" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668185858203" />
+    <state x="576" y="218" width="445" height="499" key="FileChooserDialogImpl" timestamp="1668973392009">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="576" y="218" key="FileChooserDialogImpl/0.32.1500.968@0.32.1500.968" timestamp="1668973392009" />
+    <state x="737" y="282" width="445" height="499" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668190488435" />
+    <state width="1874" height="323" key="GridCell.Tab.0.bottom" timestamp="1668191666746">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668191666746" />
+    <state width="1874" height="323" key="GridCell.Tab.0.center" timestamp="1668191666746">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668191666746" />
+    <state width="1874" height="323" key="GridCell.Tab.0.left" timestamp="1668191666746">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668191666746" />
+    <state width="1874" height="323" key="GridCell.Tab.0.right" timestamp="1668191666746">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="1874" height="323" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668191666746" />
+    <state width="498" height="486" key="SwitcherDM" timestamp="1668190488994">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="498" height="486" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668190488994" />
+    <state x="715" y="159" width="591" height="744" key="find.popup" timestamp="1668186827623">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="715" y="159" width="591" height="744" key="find.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668186827623" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup" timestamp="1668187309110">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668187309110" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/App.css" />
+    <entry file="file://$PROJECT_DIR$/src/reportWebVitals.ts" />
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="1856" column="8" selection-start-line="1856" selection-start-column="8" selection-end-line="1856" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tailwind.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/tailwindcss/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461076">
+          <caret line="20958" column="19" selection-start-line="20958" selection-start-column="19" selection-end-line="20958" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/css/main.4fb00fe3.chunk.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logo512.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/logo192.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/js/main.a3efc79c.chunk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/static/js/runtime~main.a8a9905a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="58" column="31" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="4" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/postcss.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PaymentForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

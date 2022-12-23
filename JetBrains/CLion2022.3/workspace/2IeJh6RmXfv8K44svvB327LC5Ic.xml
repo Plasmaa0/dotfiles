@@ -1,0 +1,462 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="type_erasure" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="5" lastUsed="1670687289647" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="2" lastUsed="1670714081595" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="4" lastUsed="1670709760080" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="12" lastUsed="1670709046385" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="61" lastUsed="1670711737286" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1670687886005" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1670713163393" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="5" lastUsed="1670715634747" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ShapeConcept</find>
+      <find>е связности</find>
+      <find>this</find>
+      <find>struct</find>
+      <find>TODO</find>
+      <find>_</find>
+      <find>OpenGl</find>
+      <find>.png</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Shape</replace>
+      <replace>class</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/1.cpp" />
+      <option value="$PROJECT_DIR$/test.cpp" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/old_poly.cpp" />
+      <option value="$PROJECT_DIR$/upgrade.cpp" />
+      <option value="$PROJECT_DIR$/final.cpp" />
+      <option value="$PROJECT_DIR$/pan.sh" />
+      <option value="$PROJECT_DIR$/script.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="5" lastUsage="1670687289647" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="2" lastUsage="1670714081595" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="12" lastUsage="1670709046388" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="61" lastUsage="1670711737286" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1670713163393" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1670687886007" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="5" lastUsage="1670715634747" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="type_erasure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="type_erasure" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="type_erasure" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/infa/type_erasure" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.final" executorId="Run" />
+      <element setting="CMake Application.old_poly" executorId="Run" />
+      <element setting="CMake Application.test" executorId="Run" />
+      <element setting="CMake Application.upgrade" executorId="Run" />
+      <element setting="CMake Application.unit1" executorId="Run" />
+    </history>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",QUALIFIED_NAMES" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="type_erasure-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38832000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6760752" visible="true" weight="0.14869791" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.32392472" side_tool="true" visible="true" weight="0.14869791" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.26548308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.17712635" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.25392237" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.26630884" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="PlantUML" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="make" order="5" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12109375" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.26548308" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.17712635" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.25392237" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32989264" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="make" order="4" show_stripe_button="false" side_tool="true" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Terminal</value>
+      <value>Structure</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>PlantUML</value>
+      <value>Notifications</value>
+      <value>CMake</value>
+      <value>Problems View</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1518" y="296" width="800" height="727" key="#Plugins" timestamp="1670687899411">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1518" y="296" width="800" height="727" key="#Plugins/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670687899411" />
+    <state x="1659" y="489" width="517" height="340" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1670711350518">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1659" y="489" width="517" height="340" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670711350518" />
+    <state x="1715" y="158" width="464" height="586" key="#com.intellij.ide.util.MemberChooser" timestamp="1670699645424">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="755" y="313" width="405" height="659" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670685313609" />
+    <state x="1715" y="158" width="464" height="586" key="#com.intellij.ide.util.MemberChooser/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670699645424" />
+    <state x="558" y="337" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1670673895127">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="558" y="337" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670673895127" />
+    <state x="696" y="401" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670687287028">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="696" y="401" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670687287028" />
+    <state x="1708" y="372" width="424" height="499" key="FileChooserDialogImpl" timestamp="1670711714522">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1708" y="372" width="424" height="499" key="FileChooserDialogImpl/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670711714522" />
+    <state width="1874" height="293" key="GridCell.Tab.0.bottom" timestamp="1670718825885">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state width="1454" height="293" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1670587743382" />
+    <state width="1874" height="293" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670685653164" />
+    <state width="1874" height="293" key="GridCell.Tab.0.bottom/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670718825885" />
+    <state width="1874" height="293" key="GridCell.Tab.0.center" timestamp="1670718825885">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state width="1454" height="293" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1670587743382" />
+    <state width="1874" height="293" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670685653164" />
+    <state width="1874" height="293" key="GridCell.Tab.0.center/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670718825885" />
+    <state width="1874" height="293" key="GridCell.Tab.0.left" timestamp="1670718825884">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state width="1454" height="293" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1670587743382" />
+    <state width="1874" height="293" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670685653163" />
+    <state width="1874" height="293" key="GridCell.Tab.0.left/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670718825884" />
+    <state width="1874" height="293" key="GridCell.Tab.0.right" timestamp="1670718825885">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state width="1454" height="293" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1670587743382" />
+    <state width="1874" height="293" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670685653164" />
+    <state width="1874" height="293" key="GridCell.Tab.0.right/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670718825885" />
+    <state x="1667" y="443" width="501" height="349" key="Markdown.Configure.Image.Dialog.DimensionServiceKey" timestamp="1670709001753">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1667" y="443" width="501" height="349" key="Markdown.Configure.Image.Dialog.DimensionServiceKey/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670709001753" />
+    <state x="1239" y="24" width="1265" height="807" key="SettingsEditor" timestamp="1670711520183">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="331" y="140" width="1076" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1670682389227" />
+    <state x="279" y="356" width="1377" height="939" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670684793711" />
+    <state x="1239" y="24" width="1265" height="807" key="SettingsEditor/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670711520183" />
+    <state x="479" y="238" width="614" height="524" key="StructurePopup" timestamp="1670585178355">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="479" y="238" width="614" height="524" key="StructurePopup/0.32.1500.968@0.32.1500.968" timestamp="1670585178355" />
+    <state width="498" height="455" key="SwitcherDM" timestamp="1670696948490">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state width="498" height="344" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1670585609347" />
+    <state width="498" height="443" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670687289608" />
+    <state width="498" height="455" key="SwitcherDM/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670696948490" />
+    <state x="696" y="485" width="524" height="333" key="com.jetbrains.cidr.cpp.cmake.actions.CMakeAddFileToProjectDialog" timestamp="1670684889635">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="696" y="485" width="524" height="333" key="com.jetbrains.cidr.cpp.cmake.actions.CMakeAddFileToProjectDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670684889635" />
+    <state x="1675" y="159" width="598" height="744" key="find.popup" timestamp="1670712029151">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1675" y="159" width="598" height="744" key="find.popup/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670712029151" />
+    <state x="580" y="250" width="334" height="402" key="refactoring.ChangeSignatureDialog" timestamp="1670587415398">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="580" y="250" width="334" height="402" key="refactoring.ChangeSignatureDialog/0.32.1500.968@0.32.1500.968" timestamp="1670587415398" />
+    <state x="742" y="439" width="432" height="425" key="refactoring.ChangeSignatureDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670539257791" />
+    <state x="1584" y="299" key="run.anything.popup" timestamp="1670704707481">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="1584" y="299" key="run.anything.popup/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670704707481" />
+    <state x="1583" y="282" width="861" height="705" key="search.everywhere.popup" timestamp="1670715041820">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="487" y="245" width="672" height="533" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1670682451693" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670674603647" />
+    <state x="1583" y="282" width="861" height="705" key="search.everywhere.popup/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1670715041820" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Shape.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/sys/types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="63" column="18" lean-forward="true" selection-start-line="63" selection-start-column="18" selection-end-line="63" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/grp.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/bits/types.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="146" column="24" selection-start-line="146" selection-start-column="24" selection-end-line="146" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/vector.tcc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="116" column="23" selection-start-line="116" selection-start-column="23" selection-end-line="116" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/form.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5940" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.cpp" />
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/stl_vector.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="422" column="16" lean-forward="true" selection-start-line="421" selection-start-column="2" selection-end-line="422" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/unordered_set.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/bits/unique_ptr.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="267" column="2" lean-forward="true" selection-start-line="267" selection-start-column="2" selection-end-line="268" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="85" column="12" selection-end-line="92" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/old_poly.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OldPoly.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upgrade.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/missfont.log" />
+    <entry file="file://$PROJECT_DIR$/script.html" />
+    <entry file="file://$PROJECT_DIR$/script.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="147">
+            <caret line="841" column="28" lean-forward="true" selection-start-line="841" selection-start-column="28" selection-end-line="841" selection-end-column="28" />
+            <folding>
+              <element signature="e#1200#1233#0#HTML" expanded="true" />
+              <element signature="e#2649#2682#0#HTML" expanded="true" />
+              <element signature="e#3711#3744#0#HTML" expanded="true" />
+              <element signature="e#5743#5776#0#HTML" expanded="true" />
+              <element signature="e#6138#6171#0#HTML" expanded="true" />
+              <element signature="e#7542#7575#0#HTML" expanded="true" />
+              <element signature="e#9195#9228#0#HTML" expanded="true" />
+              <element signature="e#15151#15184#0#HTML" expanded="true" />
+              <element signature="e#23831#23864#0#HTML" expanded="true" />
+              <element signature="e#27000#27033#0#HTML" expanded="true" />
+              <element signature="e#28156#28189#0#HTML" expanded="true" />
+              <element signature="e#29112#29145#0#HTML" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pan.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

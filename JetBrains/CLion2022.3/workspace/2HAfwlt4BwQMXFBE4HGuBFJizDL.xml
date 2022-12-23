@@ -1,0 +1,231 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="fe_grid_loader" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fe_gl/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1667733051167" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="6" lastUsed="1670674906281" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1667733276159" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/fe_gl/MeshLoader.cpp" />
+      <option value="$PROJECT_DIR$/fe_gl/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1667733051167" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="6" lastUsage="1670674906281" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1667733276159" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fe_mesh_loader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fe_grid_loader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fe_mesh_loader" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fe_grid_loader" type="462c0819:PsiDirectoryNode" />
+              <item name="fe_gl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.meshloader" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="772000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.32994792" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17421874" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.35929108" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4000826" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32989264" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="9" visible="true" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32989264" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Services" order="12" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="Key Promoter X" order="3" />
+      <window_info anchor="right" id="make" order="4" show_stripe_button="false" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Messages</value>
+      <value>Commit</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="558" y="313" width="800" height="692" key="#New_File_Extensions" timestamp="1669933484387">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="558" y="313" width="800" height="692" key="#New_File_Extensions/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669933484387" />
+    <state width="1454" height="306" key="GridCell.Tab.0.bottom" timestamp="1667733415310">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1667733415310" />
+    <state width="1454" height="306" key="GridCell.Tab.0.center" timestamp="1667733415310">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1667733415310" />
+    <state width="1454" height="306" key="GridCell.Tab.0.left" timestamp="1667733415310">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1667733415310" />
+    <state width="1454" height="306" key="GridCell.Tab.0.right" timestamp="1667733415310">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="306" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1667733415310" />
+    <state x="638" y="463" width="644" height="392" key="XPathView.FindDialog.DIMENSION_SERVICE_KEY.SIMPLE" timestamp="1670674939892">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="638" y="463" width="644" height="392" key="XPathView.FindDialog.DIMENSION_SERVICE_KEY.SIMPLE/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670674939892" />
+    <state x="558" y="305" width="800" height="692" key="scopes" timestamp="1670675031879">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="558" y="305" width="800" height="692" key="scopes/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670675031879" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup" timestamp="1670674937909">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670674937909" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="200" column="27" selection-start-line="200" selection-start-column="27" selection-end-line="200" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe_gl/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe_gl/MeshLoader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="166" column="9" lean-forward="true" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fe_gl/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="src" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

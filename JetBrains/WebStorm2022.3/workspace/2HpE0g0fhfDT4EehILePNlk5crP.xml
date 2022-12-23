@@ -1,0 +1,886 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="react_app" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPageHeader.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#83#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/FileView/FileView.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Pages/ClassTree/Config.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/manifest.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="36" lastUsed="1669972726839" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1669932915401" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1669928503223" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="9" lastUsed="1671539609577" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="14" lastUsed="1671539652586" />
+    </fileType>
+    <fileType name="JavaScript">
+      <summary usageCount="3" lastUsed="1669972716653" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1669930010375" />
+    </fileType>
+    <fileType name="SVG">
+      <summary usageCount="4" lastUsed="1669930013017" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="60" lastUsed="1671534522545" />
+    </fileType>
+    <fileType name="TypeScript JSX">
+      <summary usageCount="378" lastUsed="1671537471843" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1669722343124" />
+    </fileType>
+    <fileType name="tsconfig">
+      <summary usageCount="4" lastUsed="1669929969259" />
+    </fileType>
+    <fileType name="yarn.lock">
+      <summary usageCount="1" lastUsed="1669223629462" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>hashCode</find>
+      <find>flex</find>
+      <find>Bitco</find>
+      <find>Sprin</find>
+      <find>limi</find>
+      <find>owner-name</find>
+      <find>render</find>
+      <find>get(</find>
+      <find>127.0.0.1</find>
+      <find>getUser</find>
+      <find>12</find>
+      <find>127.</find>
+      <find>AddProjectForm</find>
+      <find>dir/</find>
+      <find>8000/dir</find>
+      <find>bread</find>
+      <find>&lt;Table</find>
+      <find>&lt;Select</find>
+      <find>deleteout</find>
+      <find>token: getToken()</find>
+      <find>editta</find>
+      <find>useform</find>
+      <find>selectedTagsSet</find>
+      <find>default</find>
+      <find>role</find>
+      <find>error</find>
+      <find>ismodalope</find>
+      <find>127</find>
+      <find>dele</find>
+      <find>rm</find>
+      <find>&quot;rm</find>
+      <find>index</find>
+      <find>exports</find>
+      <find>useQuery</find>
+      <find>mutate</find>
+      <find>useque</find>
+      <find>setSearchParameters</find>
+      <find>form</find>
+      <find>limit</find>
+      <find>useMutation</find>
+      <find>split</find>
+      <find>projectpagedata</find>
+      <find>isload</find>
+      <find>select</find>
+      <find>useeff</find>
+      <find>result</find>
+      <find>empty filter</find>
+      <find>header</find>
+      <find>001529</find>
+      <find>success message</find>
+      <find>#001529</find>
+      <find>delete</find>
+      <find>message</find>
+      <find>selectedkeys</find>
+      <find>selected</find>
+      <find>onexp</find>
+      <find>127.0.0.1:8000</find>
+      <find>&quot;http://virtual.fn11.bmstu.ru:3006</find>
+      <find>api</find>
+      <find>api_url</find>
+      <find>registerus</find>
+      <find>fetch(api</find>
+      <find>&quot;getclass</find>
+      <find>edit</find>
+      <find>tags</find>
+      <find>u</find>
+      <find>upload file</find>
+      <find>virtual</find>
+      <find>virtual.fn11.bmstu</find>
+      <find>upload</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Register</replace>
+      <replace>&lt;h1&gt;Project page: {user} {project_path}&lt;/h1&gt;</replace>
+      <replace>project_path</replace>
+      <replace>virtual.fn11.bmstu.ru:3006</replace>
+      <replace>api_url + &quot;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/Pages/FileView</dir>
+      <dir>$PROJECT_DIR$/src/Pages/UserPage</dir>
+      <dir>$PROJECT_DIR$/public</dir>
+      <dir>$PROJECT_DIR$/src/other</dir>
+      <dir>$PROJECT_DIR$/node_modules</dir>
+      <dir>$PROJECT_DIR$/src/Pages/Auth</dir>
+      <dir>$PROJECT_DIR$/src/Pages/ProjectPage</dir>
+      <dir>$PROJECT_DIR$/src/Pages/ClassTree</dir>
+      <dir>$PROJECT_DIR$/src/Pages/Tables</dir>
+      <dir>$PROJECT_DIR$/src/Pages/Util</dir>
+      <dir>$PROJECT_DIR$/src/Pages/SearchPage</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/public/index.html" />
+      <option value="$PROJECT_DIR$/src/Utils.ts" />
+      <option value="$PROJECT_DIR$/src/App.css" />
+      <option value="$PROJECT_DIR$/src/SearchForm.ts" />
+      <option value="$PROJECT_DIR$/src/tags_complete.ts" />
+      <option value="$PROJECT_DIR$/src/FileView.tsx" />
+      <option value="$PROJECT_DIR$/src/Navbar.tsx" />
+      <option value="$PROJECT_DIR$/src/addProjectForm.tsx" />
+      <option value="$PROJECT_DIR$/src/Register.tsx" />
+      <option value="$PROJECT_DIR$/src/SearchForm.tsx" />
+      <option value="$PROJECT_DIR$/src/Login.tsx" />
+      <option value="$PROJECT_DIR$/src/logo.svg" />
+      <option value="$PROJECT_DIR$/src/UserPage.tsx" />
+      <option value="$PROJECT_DIR$/src/DeleteButton.tsx" />
+      <option value="$PROJECT_DIR$/src/UserPageHeader.tsx" />
+      <option value="$PROJECT_DIR$/src/UserPageContent.tsx" />
+      <option value="$PROJECT_DIR$/src/EditTags.tsx" />
+      <option value="$PROJECT_DIR$/src/ProjectPage.tsx" />
+      <option value="$PROJECT_DIR$/src/ProjectPageBreadcrumb.tsx" />
+      <option value="$PROJECT_DIR$/src/PageBreadcrumb.tsx" />
+      <option value="$PROJECT_DIR$/src/ProjectPage/PageBreadcrumb.tsx" />
+      <option value="$PROJECT_DIR$/src/App.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Global/index.tsx" />
+      <option value="$PROJECT_DIR$/tsconfig.json" />
+      <option value="$PROJECT_DIR$/src/Pages/Global/Navbar.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ClassTree/ClassTree.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Tables/FilesTable.tsx" />
+      <option value="$PROJECT_DIR$/src/styles/index.css" />
+      <option value="$PROJECT_DIR$/src/styles/App.css" />
+      <option value="$PROJECT_DIR$/src/Pages/Global/App.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Global/Home.tsx" />
+      <option value="$PROJECT_DIR$/src/other/TestPage.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Util/Utils.ts" />
+      <option value="$PROJECT_DIR$/src/Pages/Tables/ProjectsTable.tsx" />
+      <option value="$PROJECT_DIR$/src/index.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ClassTree/ClassificationTree.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Auth/Login.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Auth/Register.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/UserPage/addProjectForm.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/UserPage/UserPage.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Util/EditTags.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPage.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ClassTree/ClassTreeSearch.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Tables/UsersTable.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/Util/DeleteButton.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/SearchPage/SearchForm.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ProjectPage/DownloadProject.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/FileView/FileView.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPageHeader.tsx" />
+      <option value="$PROJECT_DIR$/src/Pages/ClassTree/Config.tsx" />
+      <option value="$PROJECT_DIR$/public/manifest.json" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="36" lastUsage="1669972726839" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1669928503223" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="9" lastUsage="1671539609577" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="18" lastUsage="1671539652586" />
+    </language>
+    <language id="JavaScript">
+      <summary usageCount="3" lastUsage="1669972716653" />
+    </language>
+    <language id="SVG">
+      <summary usageCount="4" lastUsage="1669930013017" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1669930010375" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="60" lastUsage="1671534522545" />
+    </language>
+    <language id="TypeScript JSX">
+      <summary usageCount="378" lastUsage="1671537471843" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="FileView" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="ProjectPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Tables" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="UserPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="Util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react_app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="styles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="npm.npm start" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="179965000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info active="true" id="Commit" visible="true" weight="0.28799185" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.2472467" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.5136986" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.16560847" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.25026342" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32962048" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.4291085" />
+      <window_info anchor="bottom" id="Duplicates" order="10" weight="0.32989264" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" weight="0.28833333" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="npm" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.161" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.32989264" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21428572" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33029002" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.4291085" />
+      <window_info anchor="bottom" id="Duplicates" order="10" weight="0.32989264" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Problems View</value>
+      <value>Find</value>
+      <value>Terminal</value>
+      <value>Messages</value>
+      <value>Duplicates</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="363" width="374" height="577" key="#com.intellij.ide.util.MemberChooser" timestamp="1669932221235">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="771" y="363" width="374" height="577" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669932221235" />
+    <state x="558" y="337" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1670105310131">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="558" y="337" width="800" height="645" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670105310131" />
+    <state x="486" y="261" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1668973551983">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="486" y="261" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1500.968@0.32.1500.968" timestamp="1668973551983" />
+    <state x="722" y="410" key="FileChooserDialogImpl" timestamp="1669560404474">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="722" y="410" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669560404474" />
+    <state width="1428" height="128" key="GridCell.Tab.0.bottom" timestamp="1671540013539">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1428" height="128" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1671540013539" />
+    <state width="1454" height="125" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1669974915120" />
+    <state width="1874" height="171" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670147767855" />
+    <state width="914" height="350" key="GridCell.Tab.0.bottom/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@0.740.960.540" timestamp="1669019393193" />
+    <state width="1874" height="231" key="GridCell.Tab.0.bottom/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669819703278" />
+    <state width="1428" height="128" key="GridCell.Tab.0.center" timestamp="1671540013539">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1428" height="128" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1671540013539" />
+    <state width="1454" height="125" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1669974915120" />
+    <state width="1874" height="171" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670147767855" />
+    <state width="914" height="350" key="GridCell.Tab.0.center/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@0.740.960.540" timestamp="1669019393192" />
+    <state width="1874" height="231" key="GridCell.Tab.0.center/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669819703278" />
+    <state width="1428" height="128" key="GridCell.Tab.0.left" timestamp="1671540013538">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1428" height="128" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1671540013538" />
+    <state width="1454" height="125" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1669974915120" />
+    <state width="1874" height="171" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670147767855" />
+    <state width="914" height="350" key="GridCell.Tab.0.left/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@0.740.960.540" timestamp="1669019393186" />
+    <state width="1874" height="231" key="GridCell.Tab.0.left/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669819703278" />
+    <state width="1428" height="128" key="GridCell.Tab.0.right" timestamp="1671540013539">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="1428" height="128" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1671540013539" />
+    <state width="1454" height="125" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1669974915120" />
+    <state width="1874" height="171" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670147767855" />
+    <state width="914" height="350" key="GridCell.Tab.0.right/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@0.740.960.540" timestamp="1669019393192" />
+    <state width="1874" height="231" key="GridCell.Tab.0.right/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669819703278" />
+    <state x="452" y="271" width="1016" height="745" key="SettingsEditor" timestamp="1671497781020">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="452" y="271" width="1016" height="745" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1671497781020" />
+    <state width="498" height="303" key="SwitcherDM" timestamp="1671539652545">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="498" height="303" key="SwitcherDM/0.0.1500.1000@0.0.1500.1000" timestamp="1671539652545" />
+    <state width="498" height="293" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1669973333780" />
+    <state width="498" height="377" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670103596817" />
+    <state width="638" height="388" key="SwitcherDM/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669819379029" />
+    <state x="436" y="294" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1669888798262">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="436" y="294" key="Vcs.Push.Dialog.v2/0.32.1500.968@0.32.1500.968" timestamp="1669888798262" />
+    <state x="558" y="380" width="800" height="543" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669575800506" />
+    <state x="741" y="252" width="599" height="506" key="find.popup" timestamp="1671539645521">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="741" y="252" width="599" height="506" key="find.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1671539645521" />
+    <state x="559" y="131" width="896" height="654" key="find.popup/0.32.1500.968@0.32.1500.968" timestamp="1669972715462" />
+    <state x="949" y="346" width="786" height="733" key="find.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1671500426884" />
+    <state x="1676" y="131" width="1147" height="865" key="find.popup/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669813576559" />
+    <state x="488" y="239" key="run.anything.popup" timestamp="1669297587685">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="488" y="239" key="run.anything.popup/0.32.1500.968@0.32.1500.968" timestamp="1669297587685" />
+    <state x="624" y="299" key="run.anything.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669223726051" />
+    <state x="487" y="240" width="672" height="537" key="search.everywhere.popup" timestamp="1671538985053">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="487" y="240" width="672" height="537" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1671538985053" />
+    <state x="487" y="264" width="672" height="520" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1669374321239" />
+    <state x="623" y="331" width="672" height="670" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1671497776653" />
+    <state x="1583" y="307" width="672" height="687" key="search.everywhere.popup/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669811758070" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/collapse/Collapse.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@tanstack/query-core/src/types.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/@tanstack/query-core/build/lib/types.d.ts" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd-with-locales.min.js" />
+    <entry file="file://$PROJECT_DIR$/src/styles/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50632">
+          <caret line="15657" column="7" selection-start-line="15657" selection-start-column="7" selection-end-line="15657" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="14" lean-forward="true" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/robots.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other/reportWebVitals.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/theme/themes/default/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/theme/interface/seeds.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/theme/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/dist/antd.js" />
+    <entry file="file://$PROJECT_DIR$/src/styles/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@ant-design/icons/lib/components/Icon.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-rate/lib/Rate.d.ts" />
+    <entry file="file://$PROJECT_DIR$/node_modules/rc-tree/lib/Tree.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/other/TestPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="423" column="27" lean-forward="true" selection-start-line="423" selection-start-column="27" selection-end-line="423" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/popconfirm/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/src/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="32" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Util/Utils.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Util/tags_complete.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="183" column="13" selection-start-line="183" selection-start-column="13" selection-end-line="183" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Tables/ProjectsTable.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Tables/FilesTable.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPageContent.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="75" selection-start-line="5" selection-start-column="75" selection-end-line="5" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/PageBreadcrumb.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Global/Page404.tsx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Global/Navbar.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/UserPage/addProjectForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/UserPage/UserPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Global/Home.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ClassTree/ClassificationTree.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Auth/Register.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Auth/Login.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Global/App.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/FileView/FileView.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="95" column="13" lean-forward="true" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Util/EditTags.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="73" lean-forward="true" selection-start-line="1" selection-start-column="73" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/DownloadProject.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/SearchPage/SearchForm.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Util/DeleteButton.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/Tables/UsersTable.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ClassTree/ClassTreeSearch.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="65" column="24" lean-forward="true" selection-start-line="65" selection-start-column="24" selection-end-line="65" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPage.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="142" column="23" selection-start-line="142" selection-start-column="23" selection-end-line="142" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ProjectPage/ProjectPageHeader.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Pages/ClassTree/Config.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="1" column="50" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="6" lean-forward="true" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

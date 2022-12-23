@@ -1,0 +1,62 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVycw==</entry>
+        <entry encoding="base64">c2V0IG51bWJlcg==</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVy</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIDA=</entry>
+        <entry encoding="base64">c2V0IHJlbGF0aXZlbnVtYmVyIG9mZg==</entry>
+        <entry encoding="base64">c2V0IGFic29sdXRlbnVtYmVy</entry>
+        <entry encoding="base64">ZXg=</entry>
+        <entry encoding="base64">U2V4IQ==</entry>
+        <entry encoding="base64">cHdk</entry>
+        <entry encoding="base64">bHM=</entry>
+        <entry encoding="base64">aGVscA==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1667741429009">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/infa/cppbasics/qt_notepad/src/mainwindow.cpp" timestamp="1667742247242">
+        <mark key="[" line="303" column="35" />
+        <mark key="]" line="303" column="36" />
+        <mark key="." line="303" column="35" />
+        <mark key="^" line="303" column="36" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFFGaWxlIGYocGF0aCk7Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KCAgICA=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ym9vbCBtYWlud2luZG93Ojp2YWxpZGF0ZUZpbGUoY29uc3QgUVN0cmluZyAmcGF0aCkgewo=</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">aGVscA==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">KCAgICA=</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">KA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

@@ -1,0 +1,35 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CodeCompletion.html" value="1664826589236" />
+        <entry key="CompareDataSources.html" value="1666118286647" />
+        <entry key="CompareEditorWithClipboard.html" value="1669116562094" />
+        <entry key="CompareTableStructuresAndContent.html" value="1667121370596" />
+        <entry key="CopyWithNoSelection.html" value="1669645376015" />
+        <entry key="DBConsole.html" value="1669019381170" />
+        <entry key="DBDataSourceByDragAndDrop.html" value="1666979087836" />
+        <entry key="DBMakeTableReadonly.html" value="1667121366107" />
+        <entry key="DBQuickDoc.html" value="1669371965359" />
+        <entry key="DirDiff.html" value="1669219779307" />
+        <entry key="FileStructurePopup.html" value="1669803470774" />
+        <entry key="FindReplaceToggle.html" value="1667912237888" />
+        <entry key="GoToDeclaration.html" value="1668435943174" />
+        <entry key="HighlightUsagesInFile.html" value="1669915664923" />
+        <entry key="LiveTemplates.html" value="1669547245321" />
+        <entry key="Rename.html" value="1667121350160" />
+        <entry key="ShowUsages.html" value="1671536193468" />
+        <entry key="TabInEditorClose.html" value="1669459386030" />
+        <entry key="TabInLookups.html" value="1668262212292" />
+        <entry key="db_tip_group_sort_database_objects.html" value="1666888465802" />
+        <entry key="db_tip_prefer_ddl_over_view.html" value="1668006278036" />
+        <entry key="db_tip_show_parameter_information.html" value="1667729288496" />
+        <entry key="db_tip_text_search_result_set_or_editor.html" value="1666022220660" />
+        <entry key="db_tip_transposed_view.html" value="1665391399264" />
+        <entry key="options_for_inline_rename_refactoring.html" value="1670094206076" />
+        <entry key="search_everywhere_expr.html" value="1667821389128" />
+        <entry key="tips_db_DBPlugins.html" value="1667226032372" />
+      </map>
+    </option>
+  </component>
+</application>

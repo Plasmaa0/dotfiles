@@ -1,0 +1,41 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="CamelPrefixesInNavigationPopups.html" value="1667820955513" />
+        <entry key="ClipboardStack.html" value="1666283371428" />
+        <entry key="CloseOthers.html" value="1667731526680" />
+        <entry key="Close_all_editor_tabs.html" value="1664733408383" />
+        <entry key="CodeCompletionMiddle.html" value="1666015134924" />
+        <entry key="ColumnSelection.html" value="1669641888084" />
+        <entry key="CompareDataSources.html" value="1668364389008" />
+        <entry key="CtrlW.html" value="1668096732673" />
+        <entry key="DBTableViewForCSVFiles.html" value="1665506636766" />
+        <entry key="DeleteLine.html" value="1665412495574" />
+        <entry key="DragToOpen.html" value="1666532662796" />
+        <entry key="ExcludeFromProject.html" value="1668607074377" />
+        <entry key="ExtractParameter.html" value="1665255695074" />
+        <entry key="FileStructurePopup.html" value="1669038142158" />
+        <entry key="GotoLineInFile.html" value="1666379946566" />
+        <entry key="ImageFileCompletion.html" value="1667070823317" />
+        <entry key="ImagesLookup.html" value="1667914034286" />
+        <entry key="InspectCode.html" value="1667561296135" />
+        <entry key="IntroduceConstant.html" value="1669896332672" />
+        <entry key="MenuItemsDescriptions.html" value="1665002145477" />
+        <entry key="Multicursor.html" value="1665666233043" />
+        <entry key="NewCMakeProject.html" value="1668266680205" />
+        <entry key="NonSuspendingBreakpoints.html" value="1668512060114" />
+        <entry key="PreviewTODO.html" value="1667421577783" />
+        <entry key="RunConfigFolders.html" value="1666178227565" />
+        <entry key="SearchForGit.html" value="1667215765278" />
+        <entry key="SelectIn.html" value="1667303736150" />
+        <entry key="ShowAppliedStyles.html" value="1666622117760" />
+        <entry key="ShowHideSideBars.html" value="1669288139024" />
+        <entry key="TabInLookups.html" value="1666977952706" />
+        <entry key="TerminalOpen.html" value="1668868981654" />
+        <entry key="db_tip_forget_cached_schemas.html" value="1668008097838" />
+        <entry key="local_history.html" value="1668774741222" />
+      </map>
+    </option>
+  </component>
+</application>

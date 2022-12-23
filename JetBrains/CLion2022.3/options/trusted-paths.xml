@@ -1,0 +1,42 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/infa/BlobfishEngine" value="true" />
+        <entry key="$USER_HOME$/infa/Counter" value="true" />
+        <entry key="$USER_HOME$/infa/KDL" value="true" />
+        <entry key="$USER_HOME$/infa/bd_3" value="true" />
+        <entry key="$USER_HOME$/infa/bgfx_test/bgfx_cmake_minimum" value="true" />
+        <entry key="$USER_HOME$/infa/cpp23playground" value="true" />
+        <entry key="$USER_HOME$/infa/cppbasics/dz_1_io_streams_stl" value="true" />
+        <entry key="$USER_HOME$/infa/cppbasics/meshloader" value="true" />
+        <entry key="$USER_HOME$/infa/cppbasics/qt_calculator" value="true" />
+        <entry key="$USER_HOME$/infa/cppbasics/qt_notepad" value="true" />
+        <entry key="$USER_HOME$/infa/cppbasics/sarpi/fe_grid_loader" value="true" />
+        <entry key="$USER_HOME$/infa/delete_me/fe_grid_loader" value="true" />
+        <entry key="$USER_HOME$/infa/delete_me/qt_xml" value="true" />
+        <entry key="$USER_HOME$/infa/meshloader" value="true" />
+        <entry key="$USER_HOME$/infa/module_test" value="true" />
+        <entry key="$USER_HOME$/infa/modules_test" value="true" />
+        <entry key="$USER_HOME$/infa/neural" value="true" />
+        <entry key="$USER_HOME$/infa/open_adress_hash_table" value="true" />
+        <entry key="$USER_HOME$/infa/ostream_iterator" value="true" />
+        <entry key="$USER_HOME$/infa/qml_test" value="true" />
+        <entry key="$USER_HOME$/infa/qt_calculator" value="true" />
+        <entry key="$USER_HOME$/infa/qt_video" value="true" />
+        <entry key="$USER_HOME$/infa/qt_xml" value="true" />
+        <entry key="$USER_HOME$/infa/shared_ptr_test" value="true" />
+        <entry key="$USER_HOME$/infa/test_lib_link" value="true" />
+        <entry key="$USER_HOME$/infa/type_erasure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/infa/cppbasics" />
+        <option value="$USER_HOME$/infa" />
+      </list>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,767 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Counter" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculator.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4290">
+              <caret line="195" column="22" selection-start-line="195" selection-start-column="22" selection-end-line="195" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mainwidnow.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <folding>
+                <element signature="e#65#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Calculator.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1669119012426" />
+    </fileType>
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="23" lastUsed="1670536214387" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="13" lastUsed="1670530128703" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1666622256768" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="175" lastUsed="1670536214354" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="34" lastUsed="1670528801691" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="4" lastUsed="1670529032900" />
+    </fileType>
+    <fileType name="Qt UI file">
+      <summary usageCount="1" lastUsed="1666384588861" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>,</find>
+      <find>precision</find>
+      <find>exec</find>
+      <find>function</find>
+      <find>enabled</find>
+      <find>sin</find>
+      <find>eval</find>
+      <find>counterchange</find>
+      <find>policy</find>
+      <find>counter</find>
+      <find>quit</find>
+      <find>slots</find>
+      <find>mainLayout</find>
+      <find>parent</find>
+      <find>addWidge</find>
+      <find>text</find>
+      <find>addWidget</find>
+      <find>mainWidget</find>
+      <find>font</find>
+      <find>adju</find>
+      <find>engineerModeToggler</find>
+      <find>polic</find>
+      <find>size</find>
+      <find>QSizePolicy::Minimum</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;, &quot;</replace>
+      <replace>QSizePolicy::Maximum</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/cls_Counter.cpp" />
+      <option value="$PROJECT_DIR$/cls_Counter.h" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/expr3.h" />
+      <option value="$PROJECT_DIR$/mainwidnow.h" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/Calculator.h" />
+      <option value="$PROJECT_DIR$/Counter.pro" />
+      <option value="$PROJECT_DIR$/style.qss" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/eval.cpp" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/eval.py" />
+      <option value="$PROJECT_DIR$/eval.py" />
+      <option value="$PROJECT_DIR$/Calculator.cpp" />
+      <option value="$PROJECT_DIR$/main.cpp" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CMake">
+      <summary usageCount="23" lastUsage="1670536214387" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1666622256768" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="175" lastUsage="1670536214354" />
+    </language>
+    <language id="Python">
+      <summary usageCount="4" lastUsage="1670529032900" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="34" lastUsage="1670528801691" />
+    </language>
+    <language id="XML">
+      <summary usageCount="1" lastUsage="1666384588861" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.Calculator" executorId="Run" />
+      <element setting="C/C++ File.eval.cpp" executorId="Run" />
+      <element setting="CMake Application.Calculator" executorId="Profiler" />
+      <element setting="CMake Application.Calculator" executorId="Valgrind" />
+      <element setting="CMake Application.Calculator" executorId="Coverage" />
+      <element setting="CMake Application.Calculator" executorId="Debug" />
+      <element setting="CMake Application.Counter" executorId="Run" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Calculator-history" />
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66004000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info active="true" id="Commit" visible="true" weight="0.2580729" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.17833334" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33029002" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.33029002" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.26262084" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.4001074" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.33029002" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33029002" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.33029002" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.5064447" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33029002" />
+      <window_info anchor="bottom" id="Query Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Profiler" order="12" weight="0.33029002" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.33029002" />
+      <window_info anchor="bottom" id="Services" order="14" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" weight="0.33033335" />
+      <window_info anchor="right" id="Database" order="0" weight="0.2721354" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.2502604" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" x="212" y="359" width="470" height="1116" id="Structure" order="3" visible="true" weight="0.13828126" />
+      <window_info anchor="right" id="Key Promoter X" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.33033335" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" visible="true" weight="0.33033335" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.19557291" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.33029002" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.33029002" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.15400496" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.33029002" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.33029002" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.5066061" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" weight="0.33033335" />
+      <window_info anchor="right" id="Database" order="0" weight="0.2721354" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.2502604" />
+      <window_info anchor="right" id="make" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" x="212" y="359" width="470" height="1116" id="Structure" order="3" weight="0.17682292" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Commit</value>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Build</value>
+      <value>Problems View</value>
+      <value>Structure</value>
+      <value>Profiler</value>
+      <value>Coverage</value>
+      <value>Version Control</value>
+      <value>Debug</value>
+      <value>Database</value>
+      <value>Notifications</value>
+      <value>CMake</value>
+      <value>TODO</value>
+      <value>Find</value>
+      <value>documentation.v2</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="594" y="263" width="938" height="652" key="#Inspections" timestamp="1665769114055">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="594" y="263" width="938" height="652" key="#Inspections/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1665769114055" />
+    <state x="755" y="46" width="405" height="628" key="#com.intellij.ide.util.MemberChooser" timestamp="1666380818528">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="755" y="46" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666380818528" />
+    <state x="755" y="329" width="405" height="628" key="#com.intellij.ide.util.MemberChooser/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665440565255" />
+    <state x="696" y="385" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1665439531412">
+      <screen x="0" y="312" width="1920" height="968" />
+    </state>
+    <state x="696" y="385" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665439531412" />
+    <state x="623" y="158" width="534" height="542" key="#xdebugger.XInspectDialog" timestamp="1666623522945">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="623" y="158" width="534" height="542" key="#xdebugger.XInspectDialog/0.32.1500.968@0.32.1500.968" timestamp="1666623522945" />
+    <state x="800" y="157" width="474" height="525" key="#xdebugger.evaluate" timestamp="1666623609979">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="800" y="157" width="474" height="525" key="#xdebugger.evaluate/0.32.1500.968@0.32.1500.968" timestamp="1666623609979" />
+    <state width="350" height="77" key="DebuggerActiveHint" timestamp="1666623499189">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="350" height="77" key="DebuggerActiveHint/0.32.1500.968@0.32.1500.968" timestamp="1666623499189" />
+    <state x="150" y="42" width="1200" height="819" key="DiffContextDialog" timestamp="1666624232135">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="150" y="42" width="1200" height="819" key="DiffContextDialog/0.32.1500.968@0.32.1500.968" timestamp="1666624232135" />
+    <state x="746" y="394" width="439" height="499" key="FileChooserDialogImpl" timestamp="1670536227620">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="583" y="295" width="446" height="388" key="FileChooserDialogImpl/0.32.1500.968@0.32.1500.968" timestamp="1667733048314" />
+    <state x="746" y="394" width="439" height="499" key="FileChooserDialogImpl/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670536227620" />
+    <state width="1454" height="216" key="GridCell.Tab.0.bottom" timestamp="1670530700689">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1670530700689" />
+    <state width="1874" height="290" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667572356232" />
+    <state width="1874" height="382" key="GridCell.Tab.0.bottom/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665442199069" />
+    <state width="1454" height="158" key="GridCell.Tab.0.bottom/1920.280.1500.1000/0.312.1920.968@1920.280.1500.1000" timestamp="1665689412252" />
+    <state width="1454" height="216" key="GridCell.Tab.0.center" timestamp="1670530700689">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1670530700689" />
+    <state width="1874" height="290" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667572356232" />
+    <state width="1874" height="382" key="GridCell.Tab.0.center/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665442199069" />
+    <state width="1454" height="158" key="GridCell.Tab.0.center/1920.280.1500.1000/0.312.1920.968@1920.280.1500.1000" timestamp="1665689412252" />
+    <state width="1454" height="216" key="GridCell.Tab.0.left" timestamp="1670530700688">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1670530700688" />
+    <state width="1874" height="290" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667572356232" />
+    <state width="1874" height="382" key="GridCell.Tab.0.left/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665442199069" />
+    <state width="1454" height="158" key="GridCell.Tab.0.left/1920.280.1500.1000/0.312.1920.968@1920.280.1500.1000" timestamp="1665689412252" />
+    <state width="1454" height="216" key="GridCell.Tab.0.right" timestamp="1670530700689">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1670530700689" />
+    <state width="1874" height="290" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667572356232" />
+    <state width="1874" height="382" key="GridCell.Tab.0.right/1920.280.1500.1000/0.312.1920.968@0.312.1920.968" timestamp="1665442199069" />
+    <state width="1454" height="158" key="GridCell.Tab.0.right/1920.280.1500.1000/0.312.1920.968@1920.280.1500.1000" timestamp="1665689412252" />
+    <state width="1454" height="216" key="GridCell.Tab.1.bottom" timestamp="1667495254174">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.1.bottom/0.32.1500.968@0.32.1500.968" timestamp="1667495254174" />
+    <state width="1874" height="456" key="GridCell.Tab.1.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666386781195" />
+    <state width="1454" height="216" key="GridCell.Tab.1.center" timestamp="1667495254174">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.1.center/0.32.1500.968@0.32.1500.968" timestamp="1667495254174" />
+    <state width="1874" height="456" key="GridCell.Tab.1.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666386781195" />
+    <state width="1454" height="216" key="GridCell.Tab.1.left" timestamp="1667495254174">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.1.left/0.32.1500.968@0.32.1500.968" timestamp="1667495254174" />
+    <state width="1874" height="456" key="GridCell.Tab.1.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666386781195" />
+    <state width="1454" height="216" key="GridCell.Tab.1.right" timestamp="1667495254174">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.1.right/0.32.1500.968@0.32.1500.968" timestamp="1667495254174" />
+    <state width="1874" height="456" key="GridCell.Tab.1.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666386781195" />
+    <state x="505" y="158" width="490" height="647" key="RollbackChangesDialog" timestamp="1666624235915">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="505" y="158" width="490" height="647" key="RollbackChangesDialog/0.32.1500.968@0.32.1500.968" timestamp="1666624235915" />
+    <state x="242" y="24" width="1107" height="745" key="SettingsEditor" timestamp="1670528353605">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="242" y="24" width="1107" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1670528353605" />
+    <state x="470" y="182" width="1197" height="970" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1665769343914" />
+    <state width="498" height="618" key="SwitcherDM" timestamp="1670530095724">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="498" height="618" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1670530095724" />
+    <state width="638" height="797" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667564480225" />
+    <state x="445" y="216" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1667565053548">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="348" y="224" width="800" height="543" key="Vcs.Push.Dialog.v2/0.32.1500.968@0.32.1500.968" timestamp="1665747248084" />
+    <state x="445" y="216" width="800" height="543" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667565053548" />
+    <state x="100" y="116" width="1300" height="776" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1666358283782">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="100" y="116" width="1300" height="776" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.32.1500.968@0.32.1500.968" timestamp="1666358283782" />
+    <state x="545" y="249" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1667493830466">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="545" y="249" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1500.968@0.32.1500.968" timestamp="1667493830466" />
+    <state x="698" y="322" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1665767183301" />
+    <state x="535" y="430" width="430" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1666356557099">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="535" y="430" width="430" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1500.968@0.32.1500.968" timestamp="1666356557099" />
+    <state x="505" y="159" width="591" height="744" key="find.popup" timestamp="1665515985382">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="505" y="159" width="591" height="744" key="find.popup/0.32.1500.968@0.32.1500.968" timestamp="1665515985382" />
+    <state x="588" y="307" width="319" height="425" key="refactoring.ChangeSignatureDialog" timestamp="1665742576223">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="588" y="307" width="319" height="425" key="refactoring.ChangeSignatureDialog/0.32.1500.968@0.32.1500.968" timestamp="1665742576223" />
+    <state x="414" y="229" key="run.anything.popup" timestamp="1665744060017">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="414" y="229" key="run.anything.popup/0.32.1500.968@0.32.1500.968" timestamp="1665744060017" />
+    <state x="560" y="155" width="800" height="692" key="scopes" timestamp="1665768392454">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="560" y="155" width="800" height="692" key="scopes/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1665768392454" />
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup" timestamp="1670526717225">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="413" y="237" width="672" height="687" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1670526717225" />
+    <state x="529" y="296" width="861" height="886" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1666178993443" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>textWidget-&gt;size()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>textWidget-&gt;sizePolicy()</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>textWidget-&gt;sizePolicy();</expression-string>
+        <language-id>ObjectiveC</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ceval.h" />
+    <entry file="file:///usr/include/qt6/QtWidgets/qradiobutton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qlayoutitem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2247">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qobject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-416">
+          <caret line="386" column="14" selection-start-line="386" selection-start-column="9" selection-end-line="386" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qpushbutton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="18" column="45" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/bits/mathcalls.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="139" column="53" selection-start-line="139" selection-start-column="53" selection-end-line="139" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qsize.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/expr3.h" />
+    <entry file="file:///usr/include/math.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="1145" column="41" selection-start-line="1145" selection-start-column="20" selection-end-line="1145" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qsizepolicy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1319">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qlineedit.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="169" column="22" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qguiapplication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="35" column="46" lean-forward="true" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qcoreapplication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="136" column="10" lean-forward="true" selection-start-line="136" selection-start-column="10" selection-end-line="136" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/12.2.0/iostream">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Calculator.cbp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Counter.cbp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Calculator_autogen/mocs_compilation.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Calculator_autogen/moc_predefs.h" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Calculator_autogen/EWIEGA46WW/moc_Calculator.cpp.d" />
+    <entry file="file:///usr/include/qt6/QtWidgets/qlayout.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qgridlayout.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="27" column="40" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qformlayout.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qabstractbutton.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="90" column="16" selection-start-line="90" selection-start-column="9" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qcolor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qt_xml/mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="30" />
+          <folding>
+            <element signature="e#57#79#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qt_xml/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qt_xml/mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../qt_xml/mainwindow.ui">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qcheckbox.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qwidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="894" column="20" selection-start-line="894" selection-start-column="20" selection-end-line="894" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exprtk.hpp" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qboxlayout.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="94" column="40" lean-forward="true" selection-start-line="94" selection-start-column="25" selection-end-line="94" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Counter.pro.user" />
+    <entry file="file:///usr/include/qt6/QtWidgets/qapplication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="112" column="15" selection-start-line="112" selection-start-column="15" selection-end-line="112" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtQml/qjsengine.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt/QtQml/QJSEngine">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/Calculator_autogen/EWIEGA46WW/moc_Calculator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="190" column="1" lean-forward="true" selection-start-line="190" selection-start-column="1" selection-end-line="190" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Counter.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.qss" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/eval.cpp" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/res.txt" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/eval.py" />
+    <entry file="file://$PROJECT_DIR$/res.txt" />
+    <entry file="file://$USER_HOME$/.cache/JetBrains/CLion2022.3/python_stubs/-32419096/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="151" column="4" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eval.py" />
+    <entry file="file://$PROJECT_DIR$/Calculator.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4290">
+          <caret line="195" column="22" selection-start-line="195" selection-start-column="22" selection-end-line="195" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwidnow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <folding>
+            <element signature="e#65#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculator.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="76" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>proj</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+          <order>
+            <scope name="proj" />
+          </order>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

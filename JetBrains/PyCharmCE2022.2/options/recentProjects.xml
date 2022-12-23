@@ -1,0 +1,48 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/infa/neural">
+          <value>
+            <RecentProjectMetaInfo frameTitle="neural – main.py" projectWorkspaceId="2GOAg5BpLvv4CPuHB3X5WeXUKLf">
+              <option name="activationTimestamp" value="1666250829110" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-222.4345.23" />
+              <option name="buildTimestamp" value="1665576365211" />
+              <frame x="0" y="48" width="3840" height="2512" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1666249587714" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_univer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd_univer – bmstu.json" projectWorkspaceId="2GGamcaj6u1Z6VyVJ0fav0OZJUI">
+              <option name="activationTimestamp" value="1668779512934" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-222.4345.23" />
+              <option name="buildTimestamp" value="1665576370687" />
+              <frame x="0" y="48" width="3000" height="1952" extendedState="6" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1667034414713" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd3 – Dockerfile" opened="true" projectWorkspaceId="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+              <option name="activationTimestamp" value="1671539700302" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-222.4345.23" />
+              <option name="buildTimestamp" value="1665576369373" />
+              <frame x="0" y="48" width="3000" height="2000" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1668779514332" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/infa/bd_3" />
+  </component>
+</application>

@@ -1,0 +1,928 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="qt_notepad" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mainwindow.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4312">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+              <first_editor relative-caret-position="1496">
+                <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multiple_unsaved_files.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="e#14#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/multiple_unsaved_files.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Dark.qss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23606">
+              <caret line="1073" column="37" selection-start-line="1073" selection-start-column="37" selection-end-line="1073" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mainwindow.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+              <folding>
+                <element signature="e#14#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/fileTabWidget.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1540">
+              <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/textedit.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="770">
+              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="3" lastUsed="1667389947036" />
+    </fileType>
+    <fileType name="CMakeLists.txt">
+      <summary usageCount="10" lastUsed="1667737159149" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="8" lastUsed="1668870427790" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1667390750585" />
+    </fileType>
+    <fileType name="HTTP Request">
+      <summary usageCount="2" lastUsed="1667072121836" />
+    </fileType>
+    <fileType name="IDEA_MODULE">
+      <summary usageCount="1" lastUsed="1669896402364" />
+    </fileType>
+    <fileType name="Image">
+      <summary usageCount="1" lastUsed="1667424847600" />
+    </fileType>
+    <fileType name="Makefile">
+      <summary usageCount="1" lastUsed="1667390710131" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="20" lastUsed="1669896349385" />
+    </fileType>
+    <fileType name="ObjectiveC">
+      <summary usageCount="359" lastUsed="1669896349627" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="21" lastUsed="1669896349565" />
+    </fileType>
+    <fileType name="Qt Style Sheets file">
+      <summary usageCount="3" lastUsed="1667389153463" />
+    </fileType>
+    <fileType name="Qt UI file">
+      <summary usageCount="10" lastUsed="1667381322113" />
+    </fileType>
+    <fileType name="XML">
+      <summary usageCount="17" lastUsed="1667742578241" />
+    </fileType>
+    <fileType name="disassembly">
+      <summary usageCount="6" lastUsed="1667387391303" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="2" lastUsed="1667151327437" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>not sup</find>
+      <find>'*'</find>
+      <find>QObject::connect</find>
+      <find>menubar</find>
+      <find>chan</find>
+      <find>new textEdit</find>
+      <find>sen</find>
+      <find>update</find>
+      <find>saveAS</find>
+      <find>close</find>
+      <find>char</find>
+      <find>d</find>
+      <find>disconne</find>
+      <find>ошибка</find>
+      <find>QColor</find>
+      <find>color</find>
+      <find>url</find>
+      <find>src/</find>
+      <find>signals</find>
+      <find>define</find>
+      <find>toolbar</find>
+      <find>-&gt; Sa</find>
+      <find>doub</find>
+      <find>checked</find>
+      <find>closeB</find>
+      <find>table</find>
+      <find>tree</find>
+      <find>header</find>
+      <find>bo</find>
+      <find>box</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/cmake-build-debug</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/123.http" />
+      <option value="$PROJECT_DIR$/textedit.h" />
+      <option value="$PROJECT_DIR$/textedit.cpp" />
+      <option value="$PROJECT_DIR$/src/editor.cpp" />
+      <option value="$PROJECT_DIR$/src/editor.h" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/qt_notepad_autogen/include/ui_mainwindow.h" />
+      <option value="$PROJECT_DIR$/src/textEdit.h" />
+      <option value="$PROJECT_DIR$/src/textEdit.cpp" />
+      <option value="$PROJECT_DIR$/cmake-build-debug/testing.txt" />
+      <option value="$PROJECT_DIR$/src/CustomDialogs.cpp" />
+      <option value="$PROJECT_DIR$/src/CustomDialogs.h" />
+      <option value="$PROJECT_DIR$/src/Highlighter.cpp" />
+      <option value="$PROJECT_DIR$/src/Custom.cpp" />
+      <option value="$PROJECT_DIR$/src/LineNumberArea.h" />
+      <option value="$PROJECT_DIR$/src/LineNumberArea.cpp" />
+      <option value="$PROJECT_DIR$/qt_notepad.pro" />
+      <option value="$PROJECT_DIR$/src/qt_notepad.pro" />
+      <option value="$PROJECT_DIR$/src/textedit.h" />
+      <option value="$PROJECT_DIR$/src/multiple_unsaved_files.h" />
+      <option value="$PROJECT_DIR$/src/linenumberarea.h" />
+      <option value="$PROJECT_DIR$/src/Highlighter.h" />
+      <option value="$PROJECT_DIR$/src/Custom.h" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/rules.xml" />
+      <option value="$PROJECT_DIR$/src/linenumberarea.cpp" />
+      <option value="$PROJECT_DIR$/src/resources.qrc" />
+      <option value="$PROJECT_DIR$/src/fileTabWidget.h" />
+      <option value="$PROJECT_DIR$/src/main.cpp" />
+      <option value="$PROJECT_DIR$/CMakeLists.txt" />
+      <option value="$PROJECT_DIR$/src/fileTabWidget.cpp" />
+      <option value="$PROJECT_DIR$/src/textedit.cpp" />
+      <option value="$PROJECT_DIR$/src/Dark.qss" />
+      <option value="$PROJECT_DIR$/src/multiple_unsaved_files.cpp" />
+      <option value="$PROJECT_DIR$/src/mainwindow.h" />
+      <option value="$PROJECT_DIR$/src/mainwindow.cpp" />
+      <option value="$PROJECT_DIR$/README.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ASM">
+      <summary usageCount="6" lastUsage="1667387391303" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="10" lastUsage="1667737159149" />
+    </language>
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1667390750585" />
+    </language>
+    <language id="HTTP Request">
+      <summary usageCount="2" lastUsage="1667072121836" />
+    </language>
+    <language id="Makefile">
+      <summary usageCount="1" lastUsage="1667390710131" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="20" lastUsage="1669896349385" />
+    </language>
+    <language id="ObjectiveC">
+      <summary usageCount="359" lastUsage="1669896349627" />
+    </language>
+    <language id="Qt Style Sheets">
+      <summary usageCount="3" lastUsage="1667389153463" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="21" lastUsage="1669896349565" />
+    </language>
+    <language id="XML">
+      <summary usageCount="27" lastUsage="1667742578241" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="2" lastUsage="1667151327437" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="qt_notepad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qt_notepad" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qt_notepad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qt_notepad" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.qt_notepad" executorId="Run" />
+      <element setting="CMake Application.qt_notepad" executorId="Debug" />
+      <element setting="HTTP Request.get-requests | GET request with parameter" executorId="Run" />
+      <element setting="CMake Application.qt_xml" executorId="Run" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",QUALIFIED_NAMES" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="83860000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Space Code Reviews" />
+      <window_info id="Pull Requests" />
+      <window_info id="Commit" visible="true" weight="0.239" />
+      <window_info id="Bookmarks" order="0" sideWeight="0.49940193" side_tool="true" weight="0.27366668" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5005981" weight="0.19966668" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info anchor="bottom" id="Internal Method Tracing" />
+      <window_info anchor="bottom" id="File Transfer" />
+      <window_info anchor="bottom" id="clangd" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33029002" />
+      <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.33029002" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" sideWeight="0.44532323" weight="0.26262084" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4001074" />
+      <window_info anchor="bottom" id="Python Packages" order="4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.33029002" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.33029002" />
+      <window_info anchor="bottom" id="CMake" order="7" weight="0.32989264" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="9" weight="0.33029002" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33029002" />
+      <window_info anchor="bottom" id="Query Log" order="11" sideWeight="0.5546768" side_tool="true" weight="0.35929108" />
+      <window_info anchor="bottom" id="Services" order="12" weight="0.33029002" />
+      <window_info anchor="right" id="documentation.v2" side_tool="true" />
+      <window_info anchor="right" id="Hierarchy" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="4" side_tool="true" weight="0.33033335" />
+      <window_info anchor="right" id="Structure" order="5" sideWeight="0.49940193" visible="true" weight="0.11833333" />
+    </layout>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Messages</value>
+      <value>Find</value>
+      <value>Version Control</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>Debug</value>
+      <value>Key Promoter X</value>
+      <value>Bookmarks</value>
+      <value>Query Log</value>
+      <value>Terminal</value>
+      <value>TODO</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="348" y="156" width="800" height="727" key="#Plugins" timestamp="1667388570904">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="348" y="156" width="800" height="727" key="#Plugins/0.32.1500.968@0.32.1500.968" timestamp="1667388570904" />
+    <state x="604" y="24" width="551" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1667391210337">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="604" y="24" key="#com.intellij.ide.util.MemberChooser/0.32.1500.968@0.32.1500.968" timestamp="1667391210336" />
+    <state x="773" y="24" width="551" height="584" key="#com.intellij.ide.util.MemberChooser/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667176433763" />
+    <state x="545" y="281" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1667305086226">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="545" y="281" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1500.968@0.32.1500.968" timestamp="1667305086226" />
+    <state x="698" y="363" width="524" height="517" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667155482142" />
+    <state width="295" height="77" key="DebuggerActiveHint" timestamp="1667304590284">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="295" height="77" key="DebuggerActiveHint/0.32.1500.968@0.32.1500.968" timestamp="1667304590284" />
+    <state x="234" y="24" width="1200" height="819" key="DiffContextDialog" timestamp="1667737024812">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="234" y="24" width="1200" height="819" key="DiffContextDialog/0.32.1500.968@0.32.1500.968" timestamp="1667737024812" />
+    <state width="266" height="196" key="Git.Branch.Popup" timestamp="1667425706767">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="266" height="196" key="Git.Branch.Popup/0.32.1500.968@0.32.1500.968" timestamp="1667425706767" />
+    <state width="1454" height="344" key="GridCell.Tab.-1.bottom" timestamp="1667304522434">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.-1.bottom/0.32.1500.968@0.32.1500.968" timestamp="1667304522434" />
+    <state width="1454" height="344" key="GridCell.Tab.-1.center" timestamp="1667304522434">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.-1.center/0.32.1500.968@0.32.1500.968" timestamp="1667304522434" />
+    <state width="1454" height="344" key="GridCell.Tab.-1.left" timestamp="1667304522434">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.-1.left/0.32.1500.968@0.32.1500.968" timestamp="1667304522434" />
+    <state width="1454" height="344" key="GridCell.Tab.-1.right" timestamp="1667304522434">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.-1.right/0.32.1500.968@0.32.1500.968" timestamp="1667304522434" />
+    <state width="1454" height="216" key="GridCell.Tab.0.bottom" timestamp="1669289413009">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1669289413009" />
+    <state width="1874" height="437" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667250496737" />
+    <state width="1454" height="217" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@1920.280.1500.1000" timestamp="1667168146174" />
+    <state width="1454" height="216" key="GridCell.Tab.0.center" timestamp="1669289413009">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1669289413009" />
+    <state width="1874" height="437" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667250496737" />
+    <state width="1454" height="217" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@1920.280.1500.1000" timestamp="1667168146174" />
+    <state width="1454" height="216" key="GridCell.Tab.0.left" timestamp="1669289413009">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1669289413009" />
+    <state width="1874" height="437" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667250496737" />
+    <state width="1454" height="217" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@1920.280.1500.1000" timestamp="1667168146174" />
+    <state width="1454" height="216" key="GridCell.Tab.0.right" timestamp="1669289413009">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="216" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1669289413009" />
+    <state width="1874" height="437" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667250496737" />
+    <state width="1454" height="217" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@1920.280.1500.1000" timestamp="1667168146174" />
+    <state width="1454" height="344" key="GridCell.Tab.1.bottom" timestamp="1667304510155">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.1.bottom/0.32.1500.968@0.32.1500.968" timestamp="1667304510155" />
+    <state width="1874" height="456" key="GridCell.Tab.1.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667177819736" />
+    <state width="1454" height="344" key="GridCell.Tab.1.center" timestamp="1667304510155">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.1.center/0.32.1500.968@0.32.1500.968" timestamp="1667304510155" />
+    <state width="1874" height="456" key="GridCell.Tab.1.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667177819736" />
+    <state width="1454" height="344" key="GridCell.Tab.1.left" timestamp="1667304510155">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.1.left/0.32.1500.968@0.32.1500.968" timestamp="1667304510155" />
+    <state width="1874" height="456" key="GridCell.Tab.1.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667177819736" />
+    <state width="1454" height="344" key="GridCell.Tab.1.right" timestamp="1667304510155">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="1454" height="344" key="GridCell.Tab.1.right/0.32.1500.968@0.32.1500.968" timestamp="1667304510155" />
+    <state width="1874" height="456" key="GridCell.Tab.1.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667177819736" />
+    <state x="300" y="128" width="1200" height="819" key="MergeDialog" timestamp="1667425303867">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="300" y="128" width="1200" height="819" key="MergeDialog/0.32.1500.968@0.32.1500.968" timestamp="1667425303867" />
+    <state x="214" y="403" width="725" height="479" key="MultipleFileMergeDialog" timestamp="1667425303873">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="214" y="403" width="725" height="479" key="MultipleFileMergeDialog/0.32.1500.968@0.32.1500.968" timestamp="1667425303873" />
+    <state x="509" y="82" width="474" height="678" key="RollbackChangesDialog" timestamp="1667737145584">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="509" y="82" width="474" height="678" key="RollbackChangesDialog/0.32.1500.968@0.32.1500.968" timestamp="1667737145584" />
+    <state x="150" y="24" width="1213" height="765" key="SettingsEditor" timestamp="1668871635547">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="150" y="24" width="1213" height="765" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1668871635547" />
+    <state x="454" y="249" key="SettingsEditor/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667170956259" />
+    <state width="640" height="264" key="ShowBookmarks" timestamp="1667742991875">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="640" height="264" key="ShowBookmarks/0.32.1500.968@0.32.1500.968" timestamp="1667742991875" />
+    <state x="479" y="238" width="540" height="524" key="StructurePopup" timestamp="1667742983672">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="479" y="238" width="540" height="524" key="StructurePopup/0.32.1500.968@0.32.1500.968" timestamp="1667742983672" />
+    <state width="498" height="514" key="SwitcherDM" timestamp="1668873856501">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state width="498" height="514" key="SwitcherDM/0.32.1500.968@0.32.1500.968" timestamp="1668873856501" />
+    <state width="498" height="662" key="SwitcherDM/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667743174815" />
+    <state x="438" y="24" width="792" height="515" key="Vcs.Push.Dialog.v2" timestamp="1668873753138">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="438" y="24" width="792" height="515" key="Vcs.Push.Dialog.v2/0.32.1500.968@0.32.1500.968" timestamp="1668873753138" />
+    <state x="560" y="350" width="800" height="543" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667177802653" />
+    <state x="535" y="430" width="426" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1668869066014">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="535" y="430" width="426" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.32.1500.968@0.32.1500.968" timestamp="1668869066014" />
+    <state x="285" y="36" width="926" height="545" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1667387364413">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="285" y="36" width="926" height="545" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.32.1500.968@0.32.1500.968" timestamp="1667387364413" />
+    <state x="495" y="131" width="608" height="643" key="find.popup" timestamp="1667425545738">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="495" y="131" width="608" height="643" key="find.popup/0.32.1500.968@0.32.1500.968" timestamp="1667425545738" />
+    <state x="633" y="159" width="778" height="828" key="find.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667249918328" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1667168560778">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667168560778" />
+    <state x="625" y="24" width="688" height="543" key="refactoring.ChangeSignatureDialog" timestamp="1667477450702">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="625" y="24" width="688" height="543" key="refactoring.ChangeSignatureDialog/0.32.1500.968@0.32.1500.968" timestamp="1667477450702" />
+    <state x="800" y="24" width="696" height="481" key="refactoring.ChangeSignatureDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667249259326" />
+    <state x="487" y="245" width="672" height="160" key="search.everywhere.popup" timestamp="1668873892690">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="487" y="245" width="672" height="160" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1668873892690" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1667249898885" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///usr/include/qt6/QtWidgets/qdialog.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qabstractitemview.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_unsaved_files.ui">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qtmetamacros.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qtabwidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qpaintdevice.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qfilesystemmodel.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-319">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/kek" />
+    <entry file="file:///usr/include/qt6/QtCore/qobject.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="184" column="35" selection-start-line="184" selection-start-column="35" selection-end-line="184" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://1" />
+    <entry file="file:///usr/include/qt6/QtCore/qrect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="233" selection-start-line="233" selection-end-line="233" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qglobal.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="1027" selection-start-line="1027" selection-end-line="1027" />
+          <folding>
+            <element signature="e#4445#5280#0" expanded="true" />
+            <element signature="e#6109#6288#0" expanded="true" />
+            <element signature="e#6486#7019#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="cidr-memory-view://3" />
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/hello.txt" />
+    <entry file="cidr-memory-view://5" />
+    <entry file="file:///usr/include/qt6/QtWidgets/qwidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="496" column="15" lean-forward="true" selection-start-line="496" selection-start-column="15" selection-end-line="496" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_dir_qmake/.ui/ui_mainwindow.h" />
+    <entry file="file://$PROJECT_DIR$/src/textedit.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linenumberarea.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+          <folding>
+            <element signature="e#13#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Highlighter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Custom.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Makefile" />
+    <entry file="file://$PROJECT_DIR$/src/qt_notepad.pro">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtWidgets/qapplication.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="123" column="20" selection-start-line="123" selection-start-column="20" selection-end-line="123" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qcoreevent.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qevent.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="552" column="43" lean-forward="true" selection-start-line="552" selection-start-column="43" selection-end-line="552" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/linenumberarea.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="101" column="44" lean-forward="true" selection-start-line="101" selection-start-column="44" selection-end-line="101" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtGui/qicon.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/icons/stylesheet-branch-closed.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///usr/include/ctype.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qfileinfo.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileTabWidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/resources.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/qt_notepad_autogen/UVLADIE3JM/moc_mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="196" column="27" selection-start-line="196" selection-start-column="27" selection-end-line="196" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/qt_notepad_autogen/include/ui_mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="57" column="15" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="15" />
+          <folding>
+            <element signature="e#412#438#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/qt_notepad_autogen/include/ui_multiple_unsaved_files.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="50" column="46" lean-forward="true" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+          <folding>
+            <element signature="e#448#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/QChar">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/qt6/QtCore/qchar.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="1496">
+            <caret line="68" column="48" selection-start-line="68" selection-start-column="48" selection-end-line="68" selection-end-column="48" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_unsaved_files.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/multiple_unsaved_files.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dark.qss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23606">
+          <caret line="1073" column="37" selection-start-line="1073" selection-start-column="37" selection-end-line="1073" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fileTabWidget.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1540">
+          <caret line="70" column="20" selection-start-line="70" selection-start-column="20" selection-end-line="70" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/textedit.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/qt_notepad.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4312">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

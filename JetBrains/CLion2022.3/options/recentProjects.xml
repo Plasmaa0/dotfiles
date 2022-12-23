@@ -1,0 +1,243 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/infa/test_lib_link">
+          <value>
+            <RecentProjectMetaInfo frameTitle="test_lib_link – static_main.cpp" projectWorkspaceId="2FaVR4MWl2zXcQj6VvbH8h3tnta">
+              <option name="activationTimestamp" value="1664738169381" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4167.35" />
+              <option name="buildTimestamp" value="1663238491515" />
+              <frame x="960" y="-8" width="1920" height="1288" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1664730170140" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/delete_me/qt_xml">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qt_xml [~/infa/delete_me/qt_xml] – README.md" projectWorkspaceId="2GXrgtc3GtYrr4JfaJiGCmb5Lzx">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390691257" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1666545883843" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bgfx_test/bgfx_cmake_minimum">
+          <value>
+            <RecentProjectMetaInfo frameTitle="min_example – CMakeLists.txt" projectWorkspaceId="2Gqvw5tS6FRPyprpKHK54c8yyr3">
+              <option name="activationTimestamp" value="1667137152452" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390713835" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1667128753411" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/BlobfishEngine">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Compound – EntityEditor.cpp" projectWorkspaceId="2FjOkBbisZOV59IcmZmGcqheNvb">
+              <option name="activationTimestamp" value="1667905249064" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390667259" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1667837723561" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cpp23playground">
+          <value>
+            <RecentProjectMetaInfo frameTitle="cpp23playground – Shape.h" projectWorkspaceId="2HOgCL1pxcxxYq4GbNTC9nbjCIr">
+              <option name="activationTimestamp" value="1668266696876" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390702703" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1668161414510" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/bd_3">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bd3 – CMakeLists.txt" projectWorkspaceId="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+              <option name="activationTimestamp" value="1668281069928" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390696123" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1668269704382" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/ostream_iterator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MeshLoader" projectWorkspaceId="2HXT2rZlsl6ie44tSDP54nppVon">
+              <option name="activationTimestamp" value="1668432292933" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390676673" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1668430224524" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cppbasics/dz_1_io_streams_stl">
+          <value>
+            <RecentProjectMetaInfo frameTitle="dz1 – Date.h" projectWorkspaceId="2FVMYlKTmme1BJYbdRRyDsWaNxC">
+              <option name="activationTimestamp" value="1668512092126" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390673897" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1668438402161" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/open_adress_hash_table">
+          <value>
+            <RecentProjectMetaInfo frameTitle="open_adress_hash_table – main.cpp" projectWorkspaceId="2HGIypcp734feJLUdzoOGIxrDvu">
+              <option name="activationTimestamp" value="1668778882211" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-222.4345.21" />
+              <option name="buildTimestamp" value="1665390712297" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1668776282695" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cppbasics/sarpi/fe_grid_loader">
+          <value>
+            <RecentProjectMetaInfo frameTitle="fe_mesh_loader – main.cpp" projectWorkspaceId="2HAfwlt4BwQMXFBE4HGuBFJizDL">
+              <option name="activationTimestamp" value="1669933500103" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653758703" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1669933367347" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/modules_test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="modules_test – main.cpp" projectWorkspaceId="2IKc1baK2JNJmx4GmwcU2R29oAs">
+              <option name="activationTimestamp" value="1670244286535" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653774423" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670244241354" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/KDL">
+          <value>
+            <RecentProjectMetaInfo frameTitle="KDL – Log.cpp" projectWorkspaceId="2HDlIS4jV57kK9E3ghV7lZCBzAT">
+              <option name="activationTimestamp" value="1670420424197" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653727187" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670420414751" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/qt_xml">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qt_xml – main.cpp" projectWorkspaceId="2GPHb6d7Is7ItnGCu2AyPUe6OTl">
+              <option name="activationTimestamp" value="1670499475085" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653742569" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670499450684" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cppbasics/qt_notepad">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qt_notepad – Dark.qss" projectWorkspaceId="2Gp1uG7Thy2EyjmFxWVWvPgTVby">
+              <option name="activationTimestamp" value="1670526704738" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653775909" />
+              <frame x="0" y="24" width="1500" height="976" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670526668777" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cppbasics/qt_calculator">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Calculator – main.cpp" projectWorkspaceId="2FxVX4dhmxIqX0jM9Ki5HvFD6gO">
+              <option name="activationTimestamp" value="1670536230940" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653726916" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670536214883" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/type_erasure">
+          <value>
+            <RecentProjectMetaInfo frameTitle="type_erasure" projectWorkspaceId="2IeJh6RmXfv8K44svvB327LC5Ic">
+              <option name="activationTimestamp" value="1670768513540" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653755898" />
+              <frame x="211" y="24" width="1496" height="758" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670768500949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/cppbasics/meshloader">
+          <value>
+            <RecentProjectMetaInfo frameTitle="MeshLoader – test.cpp" projectWorkspaceId="2FanECdrUJiSqy04Lsr3AVlro5P">
+              <option name="activationTimestamp" value="1670775700366" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653746139" />
+              <frame x="1618" y="253" width="1916" height="944" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1670775693430" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/infa/qt_video">
+          <value>
+            <RecentProjectMetaInfo frameTitle="qt_video – ~/infa/qt_video/src/Custom.cpp" opened="true" projectWorkspaceId="2Ha8z5o6gxh203pEg4xMZIQNwdE">
+              <option name="activationTimestamp" value="1671247241267" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="CL-223.7571.171" />
+              <option name="buildTimestamp" value="1669653753560" />
+              <frame x="0" y="24" width="1920" height="1256" extendedState="6" />
+              <option name="productionCode" value="CL" />
+              <option name="projectOpenTimestamp" value="1671247240437" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/infa/qt_video" />
+    <option name="lastProjectLocation" value="$USER_HOME$/infa" />
+  </component>
+</application>

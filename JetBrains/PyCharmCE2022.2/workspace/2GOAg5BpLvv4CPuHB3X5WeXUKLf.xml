@@ -1,0 +1,143 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="neural" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2625">
+              <caret line="81" column="58" selection-start-line="81" selection-start-column="58" selection-end-line="81" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Python">
+      <summary usageCount="1" lastUsed="1666249769428" />
+    </fileType>
+  </component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/main.py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="1" lastUsage="1666249769428" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="neural" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neural" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="neural" type="b2602c69:ProjectViewProjectNode" />
+              <item name="neural" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2501302" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3300991" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Python Packages" order="4" weight="0.3300991" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.3300991" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Python Packages</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="3750" height="743" key="GridCell.Tab.0.bottom" timestamp="1666250829072">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="3750" height="743" key="GridCell.Tab.0.bottom/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666250829072" />
+    <state width="3750" height="743" key="GridCell.Tab.0.center" timestamp="1666250829071">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="3750" height="743" key="GridCell.Tab.0.center/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666250829071" />
+    <state width="3750" height="743" key="GridCell.Tab.0.left" timestamp="1666250829070">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="3750" height="743" key="GridCell.Tab.0.left/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666250829070" />
+    <state width="3750" height="743" key="GridCell.Tab.0.right" timestamp="1666250829071">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state width="3750" height="743" key="GridCell.Tab.0.right/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666250829071" />
+    <state x="1115" y="624" width="1600" height="1384" key="PythonInterpreterConfigurable.size" timestamp="1666249681249">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state x="1115" y="624" width="1600" height="1384" key="PythonInterpreterConfigurable.size/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666249681248" />
+    <state x="904" y="522" width="2018" height="1490" key="SettingsEditor" timestamp="1666249756737">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state x="904" y="522" width="2018" height="1490" key="SettingsEditor/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666249756737" />
+    <state x="1246" y="64" width="1385" height="2568" key="search.everywhere.popup" timestamp="1666249642426">
+      <screen x="0" y="64" width="3840" height="2496" />
+    </state>
+    <state x="1246" y="64" width="1385" height="2568" key="search.everywhere.popup/0.64.3840.2496/3840.560.3000.2000@0.64.3840.2496" timestamp="1666249642426" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="81" column="58" selection-start-line="81" selection-start-column="58" selection-end-line="81" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

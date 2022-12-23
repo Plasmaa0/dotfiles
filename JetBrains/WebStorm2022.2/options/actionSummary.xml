@@ -1,0 +1,406 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1669038570362" />
+    </e>
+    <e n="$Delete">
+      <i c="12" l="1669460862597" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1669038571043" />
+    </e>
+    <e n="$Redo">
+      <i c="12" l="1669560868907" />
+    </e>
+    <e n="$SelectAll">
+      <i c="7" l="1669207128837" />
+    </e>
+    <e n="$Undo">
+      <i c="1190" l="1669570783421" />
+    </e>
+    <e n="BraceOrQuoteOut">
+      <i c="3" l="1669495365958" />
+    </e>
+    <e n="ChangeLaf">
+      <i c="1" d="1" l="1669024315919" k="1669024315919" />
+    </e>
+    <e n="ClassNameCompletion">
+      <i c="1" l="1668979435943" />
+    </e>
+    <e n="CodeCompletion">
+      <i c="177" l="1669570945279" />
+    </e>
+    <e n="CollapseAll">
+      <i c="2" l="1669031147686" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="3" l="1669494285296" />
+    </e>
+    <e n="CommentByBlockComment">
+      <i c="2" l="1669549733798" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="143" l="1669570687428" />
+    </e>
+    <e n="CompareTwoFiles">
+      <i c="2" l="1669560403591" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4768" l="1669575786287" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="661" l="1669571122776" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="843" l="1669571208976" />
+    </e>
+    <e n="EditorCodeBlockEnd">
+      <i c="1" l="1669454369280" />
+    </e>
+    <e n="EditorCodeBlockStart">
+      <i c="2" l="1669230635719" />
+    </e>
+    <e n="EditorCompleteStatement">
+      <i c="15" l="1669563461897" />
+    </e>
+    <e n="EditorCopy">
+      <i c="455" l="1669571257715" />
+    </e>
+    <e n="EditorCut">
+      <i c="189" l="1669571327983" />
+    </e>
+    <e n="EditorDelete">
+      <i c="57" l="1669571182409" />
+    </e>
+    <e n="EditorDeleteLine">
+      <i c="1" l="1668980746830" />
+    </e>
+    <e n="EditorDeleteToWordEnd">
+      <i c="26" l="1669557451119" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="598" l="1669571176729" />
+    </e>
+    <e n="EditorDown">
+      <i c="1334" l="1669571186086" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="26" l="1669461905329" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="40" l="1669560572506" />
+    </e>
+    <e n="EditorEnter">
+      <i c="941" l="1669571305060" />
+    </e>
+    <e n="EditorEscape">
+      <i c="138" l="1669575271899" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="3" l="1669290168881" />
+    </e>
+    <e n="EditorJoinLines">
+      <i c="18" l="1669495384738" />
+    </e>
+    <e n="EditorLeft">
+      <i c="396" l="1669571179625" />
+    </e>
+    <e n="EditorLeftWithSelection">
+      <i c="68" l="1669551548842" />
+    </e>
+    <e n="EditorNextWord">
+      <i c="89" l="1669570231753" />
+    </e>
+    <e n="EditorNextWordWithSelection">
+      <i c="44" l="1669458880650" />
+    </e>
+    <e n="EditorPaste">
+      <i c="879" l="1669571328841" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="4" l="1669551967648" />
+    </e>
+    <e n="EditorPreviousWord">
+      <i c="91" l="1669570800964" />
+    </e>
+    <e n="EditorPreviousWordWithSelection">
+      <i c="8" l="1669561007231" />
+    </e>
+    <e n="EditorRight">
+      <i c="589" l="1669571162239" />
+    </e>
+    <e n="EditorRightWithSelection">
+      <i c="135" l="1669457584786" />
+    </e>
+    <e n="EditorScrollDown">
+      <i c="1" l="1669558303525" />
+    </e>
+    <e n="EditorScrollUp">
+      <i c="2" l="1669019223703" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="112" l="1669575300811" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="8" l="1669554941204" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="4" l="1669409167144" />
+    </e>
+    <e n="EditorStartNewLineBefore">
+      <i c="5" l="1669207513072" />
+    </e>
+    <e n="EditorTab">
+      <i c="82" l="1669562868859" />
+    </e>
+    <e n="EditorToggleInsertState">
+      <i c="2" l="1669454780260" />
+    </e>
+    <e n="EditorUnSelectWord">
+      <i c="2" l="1668978251225" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="2" l="1669290164910" />
+    </e>
+    <e n="EditorUp">
+      <i c="275" l="1669570192993" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="79" l="1669461904840" />
+    </e>
+    <e n="EmojiPicker.Open">
+      <i c="2" l="1669206810280" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="1" l="1669493208960" />
+    </e>
+    <e n="ExtractMethod">
+      <i c="1" l="1669496948461" />
+    </e>
+    <e n="Find">
+      <i c="49" l="1669571260873" />
+    </e>
+    <e n="FindInPath">
+      <i c="5" l="1669557881110" />
+    </e>
+    <e n="FindPrevious">
+      <i c="1" l="1669560942761" />
+    </e>
+    <e n="FindUsages">
+      <i c="1" l="1669322880957" />
+    </e>
+    <e n="Git.Add">
+      <i c="2" l="1668188874421" />
+    </e>
+    <e n="Git.Commit.And.Push.Executor">
+      <i c="1" l="1669575788981" />
+    </e>
+    <e n="GotoAction">
+      <i c="3" l="1669192624835" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="77" l="1669570088164" />
+    </e>
+    <e n="GotoImplementation">
+      <i c="1" l="1669015312506" />
+    </e>
+    <e n="GotoNextError">
+      <i c="35" l="1669560556172" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1669015313886" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="3" l="1669229527030" />
+    </e>
+    <e n="IntroduceVariable">
+      <i c="2" l="1669553457523" />
+    </e>
+    <e n="MethodDown">
+      <i c="2" l="1669552630502" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="11" l="1669497108204" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="14" l="1669497107341" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1668188478502" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1669222718456" />
+    </e>
+    <e n="NewPrivateEnvironmentFile">
+      <i c="1" d="1" l="1668187309119" k="1668187309119" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1668973363802" />
+    </e>
+    <e n="NewPublicEnvironmentFile">
+      <i c="1" d="1" l="1668187303280" k="1668187303280" />
+    </e>
+    <e n="NewTypeScriptConfigFile">
+      <i c="1" l="1668977299816" />
+    </e>
+    <e n="NewTypeScriptFile">
+      <i c="14" l="1669491707968" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="52" l="1669563326618" />
+    </e>
+    <e n="ParameterInfo">
+      <i c="18" l="1669569731349" />
+    </e>
+    <e n="PreviousTemplateVariable">
+      <i c="1" l="1668187855219" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1669206775364" />
+    </e>
+    <e n="RecentFiles">
+      <i c="43" l="1669649624298" />
+    </e>
+    <e n="ReformatCode">
+      <i c="704" l="1669571315828" />
+    </e>
+    <e n="RenameElement">
+      <i c="10" l="1669562845602" />
+    </e>
+    <e n="Replace">
+      <i c="3" l="1669203223322" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1668188582667" />
+    </e>
+    <e n="Run">
+      <i c="57" l="1669649582449" />
+    </e>
+    <e n="RunAnything">
+      <i c="4" l="1669297586111" />
+    </e>
+    <e n="SaveAll">
+      <i c="1588" l="1669575743371" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="9" l="1669412459478" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="95" l="1669570143818" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="59" l="1669562491265" />
+    </e>
+    <e n="ShowPopupMenu">
+      <i c="4" l="1669496470633" />
+    </e>
+    <e n="Stop">
+      <i c="37" l="1669650293403" />
+    </e>
+    <e n="SurroundWith">
+      <i c="1" l="1669552482350" />
+    </e>
+    <e n="SurroundWithLiveTemplate">
+      <i c="1" l="1669552496184" />
+    </e>
+    <e n="Terminal.OpenInTerminal">
+      <i c="1" l="1668186858234" />
+    </e>
+    <e n="Terminal.SplitVertically">
+      <i c="1" l="1668186865907" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1669221900290" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="1" l="1668190088906" />
+    </e>
+    <e n="Vcs.Push">
+      <i c="1" l="1669564624570" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" d="1" l="1669192627031" k="1669192627031" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="3" l="1669223466230" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1669459042966" />
+    </e>
+    <e n="com.intellij.codeInsight.documentation.render.DocRenderItem$ToggleRenderingAction">
+      <i c="2" l="1669223740515" />
+    </e>
+    <e n="com.intellij.codeInsight.template.impl.InvokeTemplateAction">
+      <i c="2" l="1669552496919" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1669222701069" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="2" l="1668190113115" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="28" l="1669570855230" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="99" l="1669571392255" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="14" l="1669571286150" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="1" l="1669065113593" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyEnterAction">
+      <i c="3" l="1669557898662" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeLookAndFeel$LafChangeAction">
+      <i c="1" l="1669024319942" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1669197478455" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="4" l="1669560253534" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="52" l="1669649567888" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="16" l="1669374321234" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="47" l="1669649625688" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="14" l="1669460874147" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1668185454103" />
+    </e>
+    <e n="com.intellij.psi.css.browse.CssColorGutterRenderer$1">
+      <i c="32" l="1669649682361" />
+    </e>
+    <e n="com.intellij.terminal.TerminalExecutionConsole$ClearAction">
+      <i c="1" l="1668191597211" />
+    </e>
+    <e n="com.intellij.terminal.TerminalExecutionConsole$ScrollToTheEndAction">
+      <i c="4" l="1669220039115" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="4" l="1669560256564" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="20" l="1669496963870" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="13" l="1669575262716" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$TableMoveDownAction">
+      <i c="1" l="1669557897236" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1669221909367" />
+    </e>
+  </component>
+</application>

@@ -1,0 +1,565 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bd_3" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@localhost: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="postgres@localhost: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 6 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/backend/database/tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Database Element">
+      <summary usageCount="156" lastUsed="1671572214830" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="64" lastUsed="1671570893500" />
+    </fileType>
+    <fileType name="UML">
+      <summary usageCount="1" lastUsed="1668038906953" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1668033161658" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>varchar</find>
+      <find>andrey</find>
+      <find>/prog</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>andrey123</replace>
+      <replace>prog</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/database/tables.sql" />
+      <option value="$PROJECT_DIR$/database/functions.sql" />
+      <option value="$PROJECT_DIR$/backend/database/tables.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="64" lastUsage="1671570893500" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1668033161658" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bd3" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_3" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+            <path>
+              <item name="bd3" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_3" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bd3" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="bd_3" type="377199ff:AttachableProjectViewPane$1$1$1" />
+              <item name="backend" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="postgres@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="postgres@localhost: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.14033332" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Database" order="1" visible="true" weight="0.1821574" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" weight="0.32989264" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.32989264" />
+      <window_info anchor="bottom" id="Services" order="7" visible="true" weight="0.23333333" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.15705563" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Notifications" order="2" side_tool="true" />
+    </layout>
+    <recentWindows>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Commit</value>
+      <value>Database Changes</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1223" y="424" width="1393" height="336" key="#SQL_Dialects" timestamp="1669808776593">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="263" y="453" width="1393" height="336" key="#SQL_Dialects/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668037982805" />
+    <state x="1223" y="424" key="#SQL_Dialects/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669808776593" />
+    <state x="418" y="213" width="696" height="572" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1671570777861">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="418" y="213" width="696" height="572" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1500.1000@0.0.1500.1000" timestamp="1671570777861" />
+    <state x="558" y="289" width="800" height="692" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668041573981" />
+    <state width="979" height="192" key="GridCell.Tab.0.bottom" timestamp="1671572234396">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="979" height="192" key="GridCell.Tab.0.bottom/0.0.1500.1000@0.0.1500.1000" timestamp="1671572234396" />
+    <state width="997" height="188" key="GridCell.Tab.0.bottom/0.32.1500.968@0.32.1500.968" timestamp="1669915665416" />
+    <state width="1291" height="253" key="GridCell.Tab.0.bottom/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670140213145" />
+    <state width="1291" height="253" key="GridCell.Tab.0.bottom/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669817988792" />
+    <state width="979" height="192" key="GridCell.Tab.0.center" timestamp="1671572234396">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="979" height="192" key="GridCell.Tab.0.center/0.0.1500.1000@0.0.1500.1000" timestamp="1671572234396" />
+    <state width="997" height="188" key="GridCell.Tab.0.center/0.32.1500.968@0.32.1500.968" timestamp="1669915665416" />
+    <state width="1291" height="253" key="GridCell.Tab.0.center/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670140213145" />
+    <state width="1291" height="253" key="GridCell.Tab.0.center/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669817988792" />
+    <state width="979" height="192" key="GridCell.Tab.0.left" timestamp="1671572234396">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="979" height="192" key="GridCell.Tab.0.left/0.0.1500.1000@0.0.1500.1000" timestamp="1671572234396" />
+    <state width="997" height="188" key="GridCell.Tab.0.left/0.32.1500.968@0.32.1500.968" timestamp="1669915665416" />
+    <state width="1291" height="253" key="GridCell.Tab.0.left/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670140213145" />
+    <state width="1291" height="253" key="GridCell.Tab.0.left/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669817988792" />
+    <state width="979" height="192" key="GridCell.Tab.0.right" timestamp="1671572234396">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="979" height="192" key="GridCell.Tab.0.right/0.0.1500.1000@0.0.1500.1000" timestamp="1671572234396" />
+    <state width="997" height="188" key="GridCell.Tab.0.right/0.32.1500.968@0.32.1500.968" timestamp="1669915665416" />
+    <state width="1291" height="253" key="GridCell.Tab.0.right/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1670140213145" />
+    <state width="1291" height="253" key="GridCell.Tab.0.right/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669817988792" />
+    <state width="277" height="539" key="HiddenNamespacesPopup" timestamp="1671570865825">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state width="277" height="539" key="HiddenNamespacesPopup/0.0.1500.1000@0.0.1500.1000" timestamp="1671570865825" />
+    <state x="242" y="147" width="1016" height="745" key="SettingsEditor" timestamp="1668436564221">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="242" y="147" width="1016" height="745" key="SettingsEditor/0.32.1500.968@0.32.1500.968" timestamp="1668436564221" />
+    <state x="558" y="374" width="800" height="571" key="Vcs.Push.Dialog.v2" timestamp="1668042897762">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="558" y="374" width="800" height="571" key="Vcs.Push.Dialog.v2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668042897762" />
+    <state x="777" y="168" width="357" height="561" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1668036879276">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="777" y="168" width="357" height="561" key="com.intellij.database.actions.DbDeleteProvider$2/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668036879276" />
+    <state x="1676" y="200" width="752" height="685" key="com.intellij.database.actions.ddl.DbModifyObjectDialog" timestamp="1669809839743">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="559" y="189" width="752" height="685" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.32.1500.968@0.32.1500.968" timestamp="1669722188841" />
+    <state x="945" y="261" width="723" height="883" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668042140030" />
+    <state x="1676" y="200" key="com.intellij.database.actions.ddl.DbModifyObjectDialog/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669809839743" />
+    <state x="720" y="468" width="476" height="381" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1668042026034">
+      <screen x="0" y="32" width="1920" height="1248" />
+    </state>
+    <state x="720" y="468" width="476" height="381" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668042026034" />
+    <state x="481" y="261" width="704" height="653" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1669722031559">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="481" y="261" width="704" height="653" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.32.1500.968@0.32.1500.968" timestamp="1669722031559" />
+    <state x="486" y="220" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1669034075774">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="486" y="220" width="524" height="599" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.32.1500.968@0.32.1500.968" timestamp="1669034075774" />
+    <state x="1692" y="500" width="509" height="312" key="data.grid.dml.preview.dialog" timestamp="1669808595643">
+      <screen x="960" y="0" width="1920" height="1280" />
+    </state>
+    <state x="483" y="268" width="509" height="312" key="data.grid.dml.preview.dialog/0.32.1500.968@0.32.1500.968" timestamp="1669459415401" />
+    <state x="732" y="527" width="451" height="233" key="data.grid.dml.preview.dialog/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1669564349066" />
+    <state x="1692" y="500" key="data.grid.dml.preview.dialog/960.0.1920.1280/2880.280.1500.1000/0.740.960.540@960.0.1920.1280" timestamp="1669808595643" />
+    <state x="414" y="229" key="run.anything.popup" timestamp="1669402719128">
+      <screen x="0" y="32" width="1500" height="968" />
+    </state>
+    <state x="414" y="229" key="run.anything.popup/0.32.1500.968@0.32.1500.968" timestamp="1669402719128" />
+    <state x="487" y="220" width="672" height="551" key="search.everywhere.popup" timestamp="1671571611816">
+      <screen x="0" y="0" width="1500" height="1000" />
+    </state>
+    <state x="487" y="220" width="672" height="551" key="search.everywhere.popup/0.0.1500.1000@0.0.1500.1000" timestamp="1671571611816" />
+    <state x="487" y="245" width="672" height="533" key="search.everywhere.popup/0.32.1500.968@0.32.1500.968" timestamp="1668436570381" />
+    <state x="623" y="307" width="672" height="687" key="search.everywhere.popup/0.32.1920.1248/1920.280.1500.1000@0.32.1920.1248" timestamp="1668038013655" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/pg_catalog/object-type/path.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/functions.sql" />
+    <entry file="file://$PROJECT_DIR$/database/tables.sql" />
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671536390211" presentationMode="TABLE" projectRestartId="1e272dde-05e9-46b6-8577-ca64245a3349" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="owner DESC" />
+            <sort text="owner" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/database/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="48" selection-end-line="1" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/database/functions.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="40" column="13" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570656502" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/tokens">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570657738" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/projects">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570657844" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570657934" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d33e2217-ecb9-4ac8-a3ec-afa2423d0d6d/database/univer_bd/schema/public/table/classification">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570658026" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b7950d1b-d954-4f6f-8c9d-c91883bde327/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/univer_bd/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570808793" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/information_schema/table/sql_parts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570844533" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671571840855" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572106735" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572106735" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572106735" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/files">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572106735" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570854001" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/classification">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570872078" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/projects">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671571521802" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671570869365" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572214769" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572214769" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572214769" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b7950d1b-d954-4f6f-8c9d-c91883bde327/database/postgres/schema/public/table/project_classes">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1671572214769" presentationMode="TABLE" projectRestartId="5dfa4787-cc72-4308-88eb-7231c2ba0efd" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="ctid" position="-1" binaryDisplayType="DETECT" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/database/tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

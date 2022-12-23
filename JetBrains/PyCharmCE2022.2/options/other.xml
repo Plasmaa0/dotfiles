@@ -1,0 +1,85 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GGamcaj6u1Z6VyVJ0fav0OZJUI">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GOAg5BpLvv4CPuHB3X5WeXUKLf">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.5" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CommitToolWindow.COMMIT_SPLITTER_PROPORTION": "0.53984064",
+    "ExpandBeforeRunStepsPanel": "true",
+    "FindSplitterProportion": "0.32991382",
+    "InstalledPluginsSearchHistory": "code glance\ncode glan\ncode gla\ncode gl\ncode",
+    "KEYMAP": "go to symbol",
+    "LayoutCode.optimizeImports": "false",
+    "LayoutCode.processChangedText": "false",
+    "MarketplacePluginsSearchHistory": "code glance\nmarkdown\nmark\nma\n/tag:Theme monokai",
+    "NextRunPlatformUpdateBuild": "PC-223.7571.203/2022.3",
+    "NextRunPlatformUpdateVersion": "2022.3",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PACKAGE_FILTER": "tensorflow\npyqt6\npyqt",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SHELLCHECK.PATH": "/home/plasmaa0/.local/share/JetBrains/PyCharmCE2022.2/Shell Script/shellcheck",
+    "SHFMT.PATH": "/home/plasmaa0/.local/share/JetBrains/PyCharmCE2022.2/Shell Script/shfmt",
+    "SettingsSearchHistory": "co\nkeymap\npip\nvenv\nven",
+    "appcds.runOnSecondStart": "PC-222.4459.20-97433b39e1c5ddd1a8bd00fdfb0610a277eab3511fff76730b5ec82b6718e0d1",
+    "bundled.plugins.list.saved.version": "PC-222.4459.20",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "97",
+    "fileTypeChangedCounter": "7",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "PC-222.4459.20",
+    "ide.memory.adjusted": "true",
+    "ift.learning.panel.opened.in": "222.4345.23",
+    "last_opened_file_path": "/home/plasmaa0/infa/bd_univer/venv/bin/python",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Spectrum)",
+    "registry.to.advanced.settings.migration.build": "PC-222.4459.20",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/plasmaa0/infa/bd_3",
+      "/home/plasmaa0/infa/neural",
+      "/home/plasmaa0/infa/bd_univer/lab_2/main.py",
+      "/home/plasmaa0/infa/bd_univer/venv/bin/python",
+      "/home/plasmaa0/infa/bd_univer/flask_app/run.py",
+      "/home/plasmaa0/infa/bd_univer"
+    ],
+    "fileTypeDetectors": [
+      "ru.meanmail.fileTypes.RequirementsFileTypeDetector",
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

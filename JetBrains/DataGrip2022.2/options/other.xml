@@ -1,0 +1,74 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2Fd3Hs0QfDPgzxRRpgoPpWqIK4v">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2HKUEaaXdvrP9lfdzv02Xbie9b2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DBE.Default.Dialect": "PostgreSQL",
+    "DbRenameDialog.previewExpanded": "true",
+    "ExpandBeforeRunStepsPanel": "true",
+    "InstalledPluginsSearchHistory": "glan\nglanc\nglance\ngla\ngl",
+    "KEYMAP": "explain",
+    "MarketplacePluginsSearchHistory": "glan\nrussian\nrussia\n/tag:Theme monokai\n/tag:Theme",
+    "NextRunPlatformUpdateBuild": "DB-223.8214.6/2022.3.1",
+    "NextRunPlatformUpdateVersion": "2022.3.1",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "eng\nlanguage\nshortc",
+    "SqlStructureView.filterD.file.structure.state": "true",
+    "appcds.runOnSecondStart": "DB-222.4345.5-a36867cde9ed9b2131b0fd1429bdbc5b132a5fd6b7c7da90a3c0ad3f8c6b2661",
+    "bundled.plugins.list.saved.version": "DB-222.4345.5",
+    "com.intellij.database.actions.DbDeleteProvider$2.proportion": "0.5",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.76516634",
+    "com.intellij.database.view.editors.ObjectEditorWithPreview.proportion": "0.7631068",
+    "database.notebook.setting.id": "18a52384-8fa0-4948-8356-fae3ecaa7b93",
+    "db.last.update.timestamp": "1664808145032",
+    "evlsprt3.222": "25",
+    "file.gist.reindex.count": "705",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "gotit.previous.run": "DB-222.4345.5",
+    "ide.memory.adjusted": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/plasmaa0/infa/bd_3",
+    "previousColorScheme": "_@user_Monokai Pro (Filter Spectrum)",
+    "registry.to.advanced.settings.migration.build": "DB-222.4345.5",
+    "selected.color.option.type": "INJECTED_LANGUAGE_FRAGMENT"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/plasmaa0/infa/bd_3",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/py_sells.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/create_tables.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/py_data.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/py_create_goods.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/calculate_total_costs.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/create_sells.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/create_orders.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip/lab_2/sellers_create.sql",
+      "/home/plasmaa0/infa/bd_univer/bd_datagrip",
+      "/home/plasmaa0/infa/bd_datagrip"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
